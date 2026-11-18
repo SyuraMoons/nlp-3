@@ -96,7 +96,8 @@ def main(epochs, batch_size, lr, limit):
     print(f"[dapt] {len(train)} train headlines (<= {TEXT_FIT_END}), {len(val)} held-out val headlines, device={dev}")
 
     tok = AutoTokenizer.from_pretrained(BASE)
-    model = AutoModelForMaskedLM.from_pretrained(BASE).to(dev)
+    # eager attention: PyTorch SDPA on MPS does not support attention dropout in training
+    model = AutoModelForMaskedLM.from_pretrained(BASE, attn_implementation="eager").to(dev)
     collator = DataCollatorForLanguageModeling(tok, mlm_probability=0.15, return_tensors="pt")
 
     ppl_random_head = perplexity(model, val, tok, collator, dev)
