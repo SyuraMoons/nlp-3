@@ -94,20 +94,42 @@ NLP_CONFIG = {
 #                  training days only.
 #
 # Model C = market + news volume + ONE advanced text group, so any gain over A is
-# attributable to that text representation. Add a row per encoder / feature group
-# once its daily table exists in data/features/.
+# attributable to that text representation. T_* rows are text-only (no market).
 # ---------------------------------------------------------------------------
 ABLATION_SETS = {
     "A": ["market"],
     "B": ["market", "task2_nlp"],
-    # --- Model C variants (uncomment once the daily table exists) ---
-    # "C_static":   ["market", "news_volume", "table:fasttext_mean:pca16"],
-    "C_e5":         ["market", "news_volume", "table:e5_mean:pca16"],
-    # "C_indobert": ["market", "news_volume", "table:indobert_mean:pca16"],
-    # "C_dapt":     ["market", "news_volume", "table:indobert_dapt_mean:pca16"],
-    # "C_sent":     ["market", "news_volume", "table:sentiment"],
-    # "C_anchors":  ["market", "news_volume", "table:e5_anchors"],
-    # "C_entities": ["market", "news_volume", "table:entity_channels"],
+    # --- C: representation comparison (daily mean -> PCA 16, fitted per fold) ---
+    "C_word2vec":   ["market", "news_volume", "table:word2vec_mean:pca16"],   # static, own corpus
+    "C_fasttext":   ["market", "news_volume", "table:fasttext_mean:pca16"],   # static + subwords
+    "C_indobert":   ["market", "news_volume", "table:indobert_mean:pca16"],   # contextual, general ID
+    "C_dapt":       ["market", "news_volume", "table:indobert_dapt_mean:pca16"],  # contextual, domain-adapted
+    "C_e5":         ["market", "news_volume", "table:e5_mean:pca16"],         # contextual, multilingual contrastive
+    "C_sentiment":  ["market", "news_volume", "table:sentiment"],             # transformer sentiment only
+    # --- C: temporal aggregation (e5) ---
+    "C_e5_recency": ["market", "news_volume", "table:e5_recency12:pca16"],
+    "C_e5_decay":   ["market", "news_volume", "table:e5_decay3:pca16"],
+    # --- C: beyond sentiment (e5) ---
+    "C_anchors":    ["market", "news_volume", "table:e5_anchors", "table:e5_dynamics"],
+    "C_entities":   ["market", "news_volume", "table:entity_channels"],
+    "C_topics":     ["market", "news_volume", "table:topics_e5"],
+    "C_gdelt":      ["market", "news_volume", "table:gdelt_themes"],          # knowledge-based themes
+    # all NAMED text features together (also the model explained with SHAP)
+    "C_combo":      ["market", "news_volume", "table:e5_anchors", "table:e5_dynamics",
+                     "table:entity_channels", "table:topics_e5", "table:sentiment"],
+    # --- text only (unimodal text models; also the late-fusion text branch) ---
+    "T_e5":         ["news_volume", "table:e5_mean:pca16"],
+    "T_anchors":    ["news_volume", "table:e5_anchors", "table:e5_dynamics"],
+}
+
+# Attention-pooling text subnetwork over the day's headlines (src/models/attention_mil.py):
+# row name -> headline encoder.
+ATTENTION_SETS = {"MIL_e5": "e5"}
+
+# Late fusion (src/models/fusion.py): row name -> (market model row, text model row).
+LATE_FUSION = {
+    "L_e5":  ("A__logreg", "T_e5__logreg"),
+    "L_mil": ("A__logreg", "MIL_e5__attention"),
 }
 
 # Models run for every ablation set (keys of src.models.classifiers.MODELS).
