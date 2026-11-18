@@ -33,7 +33,6 @@ import pandas as pd
 from src.data.articles import load_articles
 from src.features.daily import daily_mean, daily_sums, write_table
 from src.text.cache import load_embeddings
-from src.text.encode import ENCODERS, encode_hf_mean, encode_sentence_transformers
 
 # (axis name, headline pushing USD/IDR UP, headline pushing USD/IDR DOWN)
 ANCHOR_AXES = [
@@ -54,6 +53,8 @@ TOP_K = 20
 
 
 def encode_texts(encoder, texts):
+    # imported lazily: loading torch next to LightGBM/SHAP crashes on macOS (OpenMP clash)
+    from src.text.encode import ENCODERS, encode_hf_mean, encode_sentence_transformers
     cfg = ENCODERS[encoder]
     fn = encode_sentence_transformers if cfg["kind"] == "sentence-transformers" else encode_hf_mean
     return fn(cfg, texts, 64)

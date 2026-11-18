@@ -1,0 +1,881 @@
+date,rank,weight,n_headlines,title
+2025-11-25,1,0.023161638528108597,128,"Pakistan Diserang Bom, Tiga Anggota Paramiliter Frontier Constabulary Tewas"
+2025-11-25,2,0.020018931478261948,128,"Panglima TNI Siapkan Pasukan Perdamaian untuk Gaza, Bakal Dipimpin Jenderal Bintang 3"
+2025-11-25,3,0.01957164704799652,128,"IHSG Dibuka Melemah, Saham BRMS hingga Bank Jumbo Rontok"
+2025-11-25,4,0.018831249326467514,128,Mengenal Sejarah Lengkap dan Struktur Organisasi Nahdlatul Ulama (NU)
+2025-11-25,5,0.0169362910091877,128,"Ratu Belanda Bakal Kunjungi Indonesia Pekan Ini, Simak Agenda Lengkapnya"
+2025-11-26,1,0.023270010948181152,128,Manuver Diplomasi Trump di Asia: Rangkul China dan Jepang di Tengah Tensi Taiwan
+2025-11-26,2,0.023130742833018303,128,Takaichi Tegaskan Dukungan Trump di Tengah Memanasnya Ketegangan Jepang–China
+2025-11-26,3,0.019692538306117058,128,Alasan Gus Yahya Batal Dimakzulkan dari Ketum PBNU
+2025-11-26,4,0.016130682080984116,128,"IHSG Ditutup Melemah ke 8.521, Saham BBRI hingga BRMS Loyo"
+2025-11-26,5,0.015854647383093834,128,"IHSG Terseret Aksi Jual Mengawali Selasa (25/11), Berlawanan dengan Bursa Asia"
+2025-11-27,1,0.025088319554924965,128,"Gus Yahya Dipecat dari Ketua Umum PBNU, Rais Aam Ambil Alih Kekosongan"
+2025-11-27,2,0.01835157722234726,128,"Pengertian Interaksi Sosial, Ciri-Ciri, Syarat Terjadinya, dan Contoh dalam Kehidupan Masyarakat"
+2025-11-27,3,0.017056996002793312,128,Rais Aam Miftahul Akhyar Ambil Alih PBNU Usai Gus Yahya Dimakzulkan dari Ketum
+2025-11-27,4,0.01668926514685154,128,"Usai Cetak Rekor ATH 8.600, IHSG Hari Ini Kamis (27/11) Dibuka di Zona Merah"
+2025-11-27,5,0.015744568780064583,128,Tragedi Hong Kong: 44 Tewas Akibat Kebakaran Gedung Tertinggi
+2025-11-28,1,0.020493850111961365,128,Katib Syuriyah PBNU: Gus Yahya Harus Mundur dalam 3 Hari Setelah Surat Diteken
+2025-11-28,2,0.01705084554851055,128,Gubernur Aceh Mualem Tetapkan Status Darurat Bencana
+2025-11-28,3,0.015339856967329979,128,Keluarga Diplomat Arya Daru Pertanyaan Luka Memar di Jenazah Almarhum
+2025-11-28,4,0.015320231206715107,128,PBNU Sebut Ada Sabotase Dalam Pembuatan Surat Pemberhentian Gus Yahya
+2025-11-28,5,0.014989403076469898,128,Kronologi Kebakaran Hebat Apartemen di Hong Kong yang Tewaskan 55 Orang
+2025-12-01,1,0.023312604054808617,128,Momen Paus Leo XIV Berkunjung ke Masjid Biru di Turki
+2025-12-01,2,0.019917385652661324,128,"Didakwa Korupsi, Netanyahu Minta Pengampunan Presiden Israel"
+2025-12-01,3,0.01703379675745964,128,"Doa Prabowo untuk Korban Bencana di Aceh, Sumatra Utara, dan Sumatra Barat"
+2025-12-01,4,0.016610322520136833,128,Putin Kirim Ucapan Duka ke Prabowo atas Bencana di Sumatra
+2025-12-01,5,0.015679772943258286,128,"Banjir Sumatra, Ini Daftar Jalan yang Tidak Bisa Dilalui"
+2025-12-02,1,0.029590923339128494,128,Paus Leo XIV: Two-State Solutions Satu-satunya Jalan Konflik Israel vs Palestina
+2025-12-02,2,0.01928713545203209,128,"IHSG Ditutup Menguat ke 8.548,79, Saham TLKM, DSSA & SRAJ Kompak Menghijau"
+2025-12-02,3,0.018786508589982986,128,"Gus Yahya Klaim Masih Jabat Ketum PBNU, Meski Dimakzulkan Katib Syuriyah"
+2025-12-02,4,0.017847955226898193,128,Momen Haru Prabowo Peluk Pengungsi yang Menangis saat Cek Lokasi Banjir di Tapanuli
+2025-12-02,5,0.017521055415272713,128,KPK Kirim Penyidik ke Arab Saudi untuk Usut Korupsi Penyelenggaraan Haji
+2025-12-04,1,0.01831864006817341,128,"Bahaya, Menteri Lingkungan Hidup Ungkap 1.136 Ton Material Terkontaminasi Radioaktif Cesium-137"
+2025-12-04,2,0.017389606684446335,128,"KKP Ragu Udang RI Terpapar Cs-137, Trenggono: Kita Tak Punya Bangunan Nuklir"
+2025-12-04,3,0.014945177361369133,128,"IHSG Dibuka Menguat 0,25%, Didorong Laju Saham BMRI, TLKM, EMTK"
+2025-12-04,4,0.014924006536602974,128,Ini Alasan Istana Belum Tetapkan Status Bencana Nasional untuk Sumatra
+2025-12-04,5,0.01489262469112873,128,"IHSG Ditutup Melemah 0,06% ke 8.611, Saham CUAN, CDIA hingga DSSA Kompak Merah"
+2025-12-05,1,0.018843024969100952,128,"Rekor Lagi! IHSG Sentuh ATH Baru ke 8.640 Didorong Saham ASII, TLKM hingga BBRI"
+2025-12-05,2,0.018000934273004532,128,Rusia Blokir FaceTime Apple: Konflik Teknologi & Keamanan Siber
+2025-12-05,3,0.017274614423513412,128,"Wamen Haji Mau Tambah Petugas dari Unsur TNI-Polri, Ini Alasannya"
+2025-12-05,4,0.01485653966665268,128,IPW: Banyak Masyarakat Kecewa dengan Proses Hukum oleh Polisi
+2025-12-05,5,0.01453454326838255,128,"Pemerintah Beri Keringanan Pelunasan Biaya Haji untuk Aceh, Sumut, Sumbar"
+2025-12-08,1,0.020979177206754684,128,"Rusia Puji Trump, Sebut Strategi Keamanan AS Sejalan dengan Visi Moskow"
+2025-12-08,2,0.014789240434765816,128,"Update Data Korban Banjir Sumatra (6/12): 883 Meninggal Dunia, 520 Orang Hilang"
+2025-12-08,3,0.01459349226206541,128,Ferry Irwandi: TNI–Polri Bantu Buka Jalur ke Daerah Terisolasi di 3 Provinsi
+2025-12-08,4,0.01433525700122118,128,"Jalur Rel Kereta di Aceh Lumpuh Total, Kemenhub Ngaku Kesulitan Perbaiki"
+2025-12-08,5,0.01425478421151638,128,Gubernur Aceh Tak Izinkan Bupati Aceh Selatan Umrah saat Bencana
+2025-12-09,1,0.018246863037347794,128,"Jepang Diguncang Gempa Magnitudo 7,6, Peringatan Tsunami 3 Meter Dikeluarkan"
+2025-12-09,2,0.01641039177775383,128,"IHSG Ditutup Cetak Rekor Lagi, Menguat ke Level 8.710,69"
+2025-12-09,3,0.015772322192788124,128,"Kementerian PU: 1.666 Titik Kerusakan Akibat Bencana di Aceh, Sumbar, Sumut"
+2025-12-09,4,0.015012782998383045,128,"Prabowo Bertolak ke Pakistan 8-9 Desember, Hadiri Undangan PM Shehbaz Sharif"
+2025-12-09,5,0.01451804768294096,128,"Gempa Magnitudo 7,5 Guncang Jepang, 90.000 Warga Dievakuasi"
+2025-12-10,1,0.022745292633771896,128,Prabowo dan PM Pakistan Sepakat Perluas Kerja Sama dan Dukung Palestina
+2025-12-10,2,0.02239135280251503,128,Prabowo Minta Pakistan Kirim Dokter untuk Tingkatkan Sektor Kesehatan RI
+2025-12-10,3,0.016292477026581764,128,"Izin Ditolak Mualem, Bupati Aceh Selatan Tetap Pergi Umrah saat Bencana"
+2025-12-10,4,0.016241855919361115,128,Fahri Hamzah Sebut 6 Juta Keluarga di RI Tinggal di Rumah Tak Layak
+2025-12-10,5,0.01454857923090458,128,Foto-foto Prabowo Terima Gelar Kehormatan Nishan-e-Pakistan
+2025-12-11,1,0.017887886613607407,128,Prabowo Terima Gelar Kehormatan Tertinggi dari Presiden Pakistan
+2025-12-11,2,0.01745588146150112,128,Prabowo Undang Vladimir Putin Berkunjung ke Indonesia
+2025-12-11,3,0.016085833311080933,128,Putin Tawarkan Bantuan untuk Bangun Pembangkit Nuklir di RI
+2025-12-11,4,0.01581064611673355,128,Putin Sampaikan Duka atas Banjir Sumatra Saat Bertemu Prabowo di Rusia
+2025-12-11,5,0.014850681647658348,128,Oleh-oleh Prabowo dari Pakistan dan Rusia: Dokter hingga Energi Nuklir
+2025-12-12,1,0.029997412115335464,128,"Indonesia Butuh Persetujuan Israel untuk Masuk OECD, Bakal Ada Normalisasi Hubungan?"
+2025-12-12,2,0.020186427980661392,128,Presiden Prabowo Tiba di Medan Usai Lawatan dari Pakistan dan Rusia
+2025-12-12,3,0.018914060667157173,128,Amerika Unjuk Kekuatan Pesawat Militer Setelah Latihan Gabungan China-Rusia
+2025-12-12,4,0.016160300001502037,128,Dirut Pradiksi Gunatama (PGUN) Khairuddin Simatupang Mengundurkan Diri
+2025-12-12,5,0.015368977561593056,128,"IHSG Ditutup Melemah 0,92% ke Level 8.620, Saham Tambang Masih Panas"
+2025-12-15,1,0.03755141794681549,128,"Serangan ISIS di Suriah Tewaskan Dua Tentara AS, Trump: Kami Akan Membalas"
+2025-12-15,2,0.024688662961125374,128,"Bantah Trump, Thailand Sebut Tak Ada Perjanjian Gencatan Senjata Baru dengan Kamboja"
+2025-12-15,3,0.018707208335399628,128,Kamboja dan Thailand Masih Saling Serang usai Klaim Gencatan Senjata Trump
+2025-12-15,4,0.017959609627723694,128,"Sekjen PBB hingga Menlu AS Kutuk Penembakan Bondi Beach, Sydney, Australia"
+2025-12-15,5,0.016689371317625046,128,"Kronologi Penembakan Bondi Beach, Sydney: 12 Orang Tewas, Polisi Australia Tetapkan Aksi Teror"
+2025-12-16,1,0.019192682579159737,128,"Prabowo Ungkap Banyak Negara Tawarkan Bantuan: Terima Kasih, Kami Masih Mampu"
+2025-12-16,2,0.017044292762875557,128,Prabowo Larang Pejabat Hadir untuk Foto-foto: Jangan Ada Wisata Bencana
+2025-12-16,3,0.016390684992074966,128,Prabowo Bantah Narasi Pemerintah Tak Hadir Tangani Bencana Sumatra
+2025-12-16,4,0.016252193599939346,128,"Listrik Masih Padam di Sumatra, Prabowo: Saya Minta Maaf, Saya Tak Punya Tongkat Nabi Musa"
+2025-12-16,5,0.01595163904130459,128,"IHSG Dibuka Menguat ke 8.690, Saham MBSS, KONI & HDFA Puncaki Top Gainers"
+2025-12-17,1,0.02051362209022045,128,"Gelombang Protes Gen-Z Guncang Dunia, dari Indonesia hingga Bulgaria"
+2025-12-17,2,0.017583003267645836,128,Jejak Katolik dalam Pendidikan Wanita Jepang
+2025-12-17,3,0.017197735607624054,128,"Trump Perluas Larangan Masuk AS, Puluhan Negara Masuk Daftar Travel Ban"
+2025-12-17,4,0.016089122742414474,128,"Replika Patung Liberty di Brasil Roboh, Terkena Angin"
+2025-12-17,5,0.015474426560103893,128,Kuasa Hukum Anak Riza Chalid Sebut Jaksa Tidak Punya Bukti Kuat Kasus Tata Kelola Minyak
+2025-12-18,1,0.0475260391831398,128,"Serangan Israel Tewaskan Komandan Hamas saat Gencatan Senjata, Trump Tegur Netanyahu"
+2025-12-18,2,0.018024586141109467,128,Uni Eropa Pastikan Bulgaria Masuk Zona Euro 2026 di Tengah Krisis Politik dan Gelombang Protes
+2025-12-18,3,0.017201855778694153,128,"IHSG Dibuka Menguat ke 8.719, Saham Bank Jumbo hingga ADRO Kinclong"
+2025-12-18,4,0.014854103326797485,128,Rupiah Dibuka Loyo ke Level Rp16.705 per Dolar AS pada Kamis (18/12/2025)
+2025-12-18,5,0.013505886308848858,128,"Danantara Beli Hotel di Makkah, Rosan: Prioritas untuk Jemaah Haji Indonesia"
+2025-12-19,1,0.022217290475964546,128,"Isu Taiwan Picu Gesekan, PM Jepang Takaichi Buka Pintu Dialog dengan China"
+2025-12-19,2,0.018057841807603836,128,Menteri PU Dody Akui Masih Ada Desa Terisolasi di Aceh
+2025-12-19,3,0.017830608412623405,128,Putin Ogah Mundur dari Wilayah Ukraina Meski Trump Desak Perdamaian
+2025-12-19,4,0.01777716353535652,128,"Polisi Ngaku Perlihatkan Ijazah Jokowi Asli ke Roy Suryo Cs, Ini Buktinya"
+2025-12-19,5,0.017559420317411423,128,"Rupiah Ditutup Melemah ke Rp16.723, Dolar AS Menguat Tipis"
+2025-12-22,1,0.02199549414217472,128,"Bulgaria Bergejolak, Warga Demo Tuntut Pemilu Adil dan Reformasi Hukum"
+2025-12-22,2,0.020151663571596146,128,"Serangan Bom Asap dan Penusukan Di Taiwan, Empat Orang Tewas"
+2025-12-22,3,0.017819639295339584,128,"Jepang Bersiap Nyalakan Kembali PLTN Terbesar Dunia, 15 Tahun Usai Fukushima"
+2025-12-22,4,0.017118239775300026,128,"Skandal Epstein Guncang AS: Clinton Disorot, Trump Tak Tersentuh"
+2025-12-22,5,0.015919659286737442,128,Presiden Brasil Lula: Intervensi AS di Venezuela Bahayakan Kawasan
+2025-12-23,1,0.01968582533299923,128,Kata Jusuf Kalla soal Pemerintah Tolak Bantuan Asing untuk Bencana Sumatra
+2025-12-23,2,0.015447435900568962,128,"Sinopsis Film Avatar: Fire and Ash, Tekankan Jake Sully Sebagai Kepala Keluarga"
+2025-12-23,3,0.015178246423602104,128,"Tensi AS-Venezuela Memanas, Harga Emas Dunia Hari Ini (23/12/2025) Lanjut Reli"
+2025-12-23,4,0.014408864080905914,128,Doa Buka Puasa dan Niat Puasa Qadha Ramadan
+2025-12-23,5,0.014344108290970325,128,Perbedaan Sarkas dan Satire beserta Contoh Kalimatnya
+2025-12-24,1,0.01905715838074684,128,"Daftar Kebijakan Pemerintah untuk Tangani Bencana di Aceh, Sumut, dan Sumbar"
+2025-12-24,2,0.016473039984703064,128,Kementerian ESDM Tegaskan Tidak Ada Aktivitas Pertambangan di Gunung Slamet
+2025-12-24,3,0.015997085720300674,128,Polda Metro Pertebal Pengamanan 14 Gereja di Jakarta hingga Bekasi
+2025-12-24,4,0.01547245867550373,128,"Trump Tunjuk Utusan Khusus Greenland, Denmark Meradang"
+2025-12-24,5,0.014698590151965618,128,"Update Bencana Sumatra-Aceh: 1.112 Korban Jiwa, Sejumlah Jembatan Telah Berfungsi"
+2025-12-29,1,0.026507729664444923,128,"Imbas Kasus Darurat Militer, Eks Presiden Korsel Dituntut 10 Tahun Penjara"
+2025-12-29,2,0.022336367517709732,128,"Israel Akui Kemerdekaan Somaliland, Somalia Meradang"
+2025-12-29,3,0.02055399864912033,128,Iran Luncurkan 3 Satelit ke Luar Angkasa dari Wilayah Rusia
+2025-12-29,4,0.018065985292196274,128,Deretan Perjanjian Perdagangan Internasional Indonesia dan Negara Lain Hingga 2025
+2025-12-29,5,0.01644854061305523,128,Kim Jong Un Kirim Pesan Tahun Baru kepada Putin
+2025-12-30,1,0.018715189769864082,128,"Profil Romo Mudji, Tokoh Filsafat dan Keberagaman Indonesia"
+2025-12-30,2,0.018179165199398994,128,"Kenang Romo Mudji, Menteri Agama: Sahabat Dialog Lintas Iman"
+2025-12-30,3,0.017727430909872055,128,"Mengenal Somaliland, Negara yang Diakui Merdeka oleh Israel"
+2025-12-30,4,0.015870843082666397,128,"Makna, Tata Cara, hingga Bacaan Doa Setelah Ijab Kabul"
+2025-12-30,5,0.01564840041100979,128,"Rencana Muktamar NU, Gus Ipul Tunggu Keputusan Rais Aam dan Ketum PBNU"
+2025-12-31,1,0.021590212360024452,128,Pemerintah Inggris Sarankan Warganya Tak Mendaki 6 Gunung Ini di Indonesia
+2025-12-31,2,0.01704181730747223,128,"IHSG Dibuka Turun ke 8.598, Top Losers LQ45: ADRO, BBRI dan ANTM, Selasa (30/12)"
+2025-12-31,3,0.015881666913628578,128,"KRL dan LRT Beroperasi Lebih Lama saat Malam Tahun Baru, Cek Jadwalnya!"
+2025-12-31,4,0.015370647422969341,128,Densus 88 Tangkap 51 Tersangka Terorisme Sepanjang 2025
+2025-12-31,5,0.015300454571843147,128,"Bandingkan dengan Nepal-Brasil, Kapolri Pamer Atasi Kerusuhan ""Agustus Kelabu"""
+2026-01-02,1,0.025901731103658676,128,"Rumah DJ Donny Diserang Bom Molotov, Gara-gara Kritik Pemerintah?"
+2026-01-02,2,0.016942281275987625,128,"Ragam Perayaan Tahun Baru 2026 di Seluruh Dunia, dari China hingga Brasil"
+2026-01-02,3,0.016888167709112167,128,Zohran Mamdani Resmi jadi Wali Kota New York Pertama yang Disumpah dengan Al-Quran
+2026-01-02,4,0.01464110892266035,128,Prabowo: Pemerintah Tak Akan Tinggalkan Rakyat Hadapi Musibah
+2026-01-02,5,0.014167582616209984,128,"IHSG Berpeluang Menguat Lagi Jumat (2/1), Ini Rekomendasi Sahamnya"
+2026-01-05,1,0.023851413279771805,128,PBB Sebut Penangkapan Presiden Venezuela Nicolas Maduro Tidak Hormati Hukum Internasional
+2026-01-05,2,0.023370491340756416,128,"Aksi Militer AS di Venezuela Disorot Anggota DPR, RI Diminta Bersikap Tegas"
+2026-01-05,3,0.02288050390779972,128,Para Pemimpin Dunia Desak PBB Turun Tangan Usai Penangkapan Maduro
+2026-01-05,4,0.020606299862265587,128,"China, Rusia hingga Spanyol Kecam Aksi AS di Venezuela usai Maduro Ditangkap"
+2026-01-05,5,0.015985475853085518,128,Trump Sebut Presiden Venezuela Nicolas Maduro Telah Dalam Perjalanan Menuju New York
+2026-01-06,1,0.02322833612561226,128,Daftar Negara Diprediksi Jadi Target Donald Trump setelah Venezuela
+2026-01-06,2,0.02118046209216118,128,Ini Alasan Trump Serang Venezuela dan Menangkap Presidennya
+2026-01-06,3,0.016221215948462486,128,"Ditangkap Trump lalu Diadili di AS, Presiden Venezuela Nicolás Maduro: Saya Tidak Bersalah"
+2026-01-06,4,0.015729911625385284,128,"Hakim Tegur Prajurit TNI yang Amankan Sidang Nadiem Makarim, Ada Apa?"
+2026-01-06,5,0.014717573300004005,128,"IHSG Melonjak 1,27% ke 8.859, Top Gainers LQ45: BUMI, MDKA dan HEAL, Senin (5/1)"
+2026-01-07,1,0.02000577561557293,128,Mensesneg Sebut Prabowo Tak Bahas Khusus Konflik AS vs Venezuela di Retret Kabinet
+2026-01-07,2,0.01987660489976406,128,"RI Larang Impor Daging Babi dari Spanyol, Wabah Penyakit Melanda Barcelona"
+2026-01-07,3,0.018062833696603775,128,ATH Lagi! IHSG Hari Ini (6/1) Ditutup Menguat ke Level 8.933
+2026-01-07,4,0.017217617481946945,128,"Klaim Swasembada Beras pada 2025, Prabowo Singgung Konflik Thailand-Kamboja"
+2026-01-07,5,0.01636120304465294,128,"Menteri Hukum Godok Aturan Pelaksana KUHAP, dari Pidana Mati hingga Pembuatan BAP Pakai AI"
+2026-01-08,1,0.024559542536735535,128,"Eropa-Kanada Kompak Dukung Greenland, Tolak Klaim Trump"
+2026-01-08,2,0.023705195635557175,128,"Trump Tarik AS Mundur dari 66 Organisasi Internasional, Multilateralisme Berakhir?"
+2026-01-08,3,0.018415771424770355,128,"Densus 88 Ungkap 6 Ciri Anak Terpapar Radikalisme, Suka Konten Kekerasan hingga Menutup Diri"
+2026-01-08,4,0.017166370525956154,128,Sejarah Greenland sebagai Wilayah Denmark dan Alasan Trump Ingin Menguasainya
+2026-01-08,5,0.016377119347453117,128,IHSG Ditutup Menguat Hari Ini (7/1) Usai Cetak Rekor ATH saat Intraday
+2026-01-09,1,0.01917332038283348,128,PBB Sesalkan Langkah Trump Tarik AS dari Puluhan Organisasi Internasional
+2026-01-09,2,0.016669336706399918,128,"IHSG Dibuka Menguat 0,37% ke 8.958, Saham BBCA, TLKM & ASII Kompak di Zona Hijau"
+2026-01-09,3,0.015866344794631004,128,"Pimpin Dewan HAM PBB 2026, Indonesia Janji Imparsial dan Transparan"
+2026-01-09,4,0.014774615876376629,128,"Imbas Materi Mens Rea, Pemuda NU dan Muhammadiyah Laporkan Pandji ke Polda Metro Jaya"
+2026-01-09,5,0.014379769563674927,128,"Rupiah Ditutup Melemah ke Rp16.798 Hari Ini (8/1), Greenback Perkasa"
+2026-01-12,1,0.030727803707122803,128,"Israel Siaga Tinggi, Antisipasi Intervensi Amerika Serikat di Iran"
+2026-01-12,2,0.019097866490483284,128,"Kerusuhan Iran Tewaskan 500 Orang, Teheran Ancam Serang Pangkalan AS"
+2026-01-12,3,0.018309082835912704,128,"Donald Trump: Iran Ingin Merdeka, AS Siap Bantu"
+2026-01-12,4,0.018143298104405403,128,"Awal Puasa Ramadan 2026 Versi Muhammadiyah, Pemerintah, dan NU"
+2026-01-12,5,0.01622965559363365,128,"Trump Tekan Kuba, Ancam Hentikan Aliran Minyak dan Dana dari Venezuela"
+2026-01-13,1,0.02461485005915165,128,"Nekat, Donald Trump Klaim Dirinya sebagai Presiden Sementara Venezuela"
+2026-01-13,2,0.023699497804045677,128,"Dunia Makin Panas, Iran Berani Ancam Balik AS dan Israel"
+2026-01-13,3,0.019698871299624443,128,PDIP Desak Pemerintah Tolak Penangkapan Nicolas Maduro: Rendahkan PBB
+2026-01-13,4,0.019169200211763382,128,"Krisis Iran Memanas, Trump Buka Peluang Operasi Militer"
+2026-01-13,5,0.017414305359125137,128,Benarkah Niat Puasa Ramadan Harus Dibaca Setiap Malam? Ini Penjelasan Ulama
+2026-01-14,1,0.021925630047917366,128,"Tujuh Penyakit Ini Bisa Bikin Jemaah Haji Gagal Berangkat ke Tanah Suci, Catat"
+2026-01-14,2,0.02023061364889145,128,Ancaman Trump Soal Tarif 25% Tak Akan Pengaruhi Dagang Indonesia-Iran
+2026-01-14,3,0.019347112625837326,128,IHSG Ditutup Rebound! Cetak ATH Baru ke 8.948 Usai Melemah di Sesi I
+2026-01-14,4,0.01713733933866024,128,TNI-Polri Siap Tambah Personel untuk Bantu Penyelenggaraan Haji
+2026-01-14,5,0.016485854983329773,128,Prabowo Minta Percepatan Pembangunan Fasilitas Legislatif dan Yudikatif di IKN
+2026-01-15,1,0.0230436809360981,128,"Iran Mulai Tutup Wilayah Udara, Intervensi Militer AS Kian Dekat?"
+2026-01-15,2,0.020464051514863968,128,"AS Tarik Sebagian Pasukan dari Pangkalan Militer, Invasi ke Iran Tunggu Waktu"
+2026-01-15,3,0.018345994874835014,128,"Coba Direbut Trump, PM Greenland Tolak Negaranya Gabung AS"
+2026-01-15,4,0.01787037029862404,128,"Setelah Venezuela, Apa Alasan Trump Ingin Caplok Greenland di Bawah Kuasa AS?"
+2026-01-15,5,0.01761392503976822,128,"Kronologi Crane Kereta Cepat Thailand Ambruk, 30 Orang Tewas"
+2026-01-19,1,0.030103901401162148,128,"Takut Diserang Iran, Israel Teriak Minta Tolong ke Donald Trump"
+2026-01-19,2,0.02225683070719242,128,"Bukan Cuma Greenland, Trump Juga Disebut Biang Kerok Konflik Mematikan di Iran"
+2026-01-19,3,0.016639510169625282,128,Ancaman Trump ke Iran: Apa Langkah Putin Cegah Perang Baru?
+2026-01-19,4,0.01646948978304863,128,Donald Trump Ancam Naikkan Tarif Negara Eropa yang Bela Greenland
+2026-01-19,5,0.015454155392944813,128,Kronologi Pesawat ATR Indonesia Air Hilang Kontak di Maros
+2026-01-20,1,0.01765754260122776,128,AS Klaim Perlu Kuasai Greenland karena Kelemahan Eropa
+2026-01-20,2,0.016859618946909904,128,Kronologi Kecelakaan Maut 2 Kereta Cepat Spanyol yang Tewaskan 39 Orang
+2026-01-20,3,0.01637742482125759,128,"Jepang Bersiap Aktifkan Kembali PLTN Terbesar Dunia, Trauma Fukushima Belum Hilang"
+2026-01-20,4,0.014548977836966515,128,Komisi V DPR Bakal Panggil Kemenhub Cs Terkait Insiden Pesawat ATR 42-500
+2026-01-20,5,0.01451854594051838,128,"Tiba di Inggris, Prabowo Dijadwalkan Bertemu Raja Charles III dan PM Starmer"
+2026-01-21,1,0.030768027529120445,128,"Iran Verifikasi 5.000 Korban Tewas dalam Protes, Internet Kembali Diputus"
+2026-01-21,2,0.01957576535642147,128,"Pantai-Pantai di Sydney, Australia Ditutup Gara-Gara Serangan Hiu"
+2026-01-21,3,0.016332460567355156,128,Alasan Dibalik Trump dan Amerika yang Ingin Akuisisi Greenland
+2026-01-21,4,0.01611996814608574,128,"IHSG Catat Rekor Tertinggi, Rupiah Justru Melemah, Begini Respon Purbaya"
+2026-01-21,5,0.016102783381938934,128,Trump Sentil Inggris Lemah Karena Serahkan Kedaulatan Diego Garcia ke Mauritius
+2026-01-22,1,0.028949234634637833,128,Indonesia dan Beberapa Negara Ini Mendapat Undangan Bergabung Dewan Perdamaian Gaza
+2026-01-22,2,0.024157125502824783,128,"Forum Davos Dibayangi Ketegangan Trump, Greenland, dan Eropa"
+2026-01-22,3,0.02225610241293907,128,Ketegangan Trump dan Macron Meningkat di Tengah Isu Greenland
+2026-01-22,4,0.018984869122505188,128,"Trump Melunak Soal Greenland di Davos, Tahan Diri Tidak Kenakan Tarif ke Eropa"
+2026-01-22,5,0.017596017569303513,128,Presiden ECB Walk Out dari Acara Makan Malam WEF Davos usai Mendag AS Kritisi Eropa
+2026-01-23,1,0.030286669731140137,128,"Iran Rilis Data Resmi Korban Tewas Aksi Protes, Lebih dari 3.000 Orang"
+2026-01-23,2,0.02149924263358116,128,Sah! RI Gabung dengan Dewan Perdamaian Internasional Buatan Trump
+2026-01-23,3,0.019689682871103287,128,RI Pertimbangkan Gabung Dewan Perdamaian untuk Dorong Perdamaian Gaza
+2026-01-23,4,0.019401559606194496,128,"Prabowo Teken Piagam Dewan Perdamaian, Sebut Kesempatan Bersejarah untuk Perdamaian Gaza"
+2026-01-23,5,0.019330356270074844,128,"Luncurkan Dewan Perdamaian, Trump Klaim Akhiri Delapan Perang dan Dorong Stabilitas Global"
+2026-01-26,1,0.032150305807590485,128,Presiden Brazil Kritik Dewan Perdamaian Gaza Bentukan Donald Trump
+2026-01-26,2,0.026508484035730362,128,"Iran Peringatkan AS, Setiap Serangan Akan Dibalas sebagai Perang Terbuka"
+2026-01-26,3,0.02645203098654747,128,"Uni Eropa Soroti Dewan Perdamaian Trump, Dinilai Menyimpang dari Mandat PBB"
+2026-01-26,4,0.023185987025499344,128,"Trump Kerahkan Armada ke Timur Tengah, Spekulasi Serangan ke Iran Meningkat"
+2026-01-26,5,0.021239135414361954,128,"AS Resmi Keluar dari WHO, Peran Lembaga Kesehatan Global Dipertanyakan"
+2026-01-27,1,0.022150633856654167,128,"Bisnis Iran Terpukul, Pemadaman Internet Masih Berlanjut"
+2026-01-27,2,0.016959257423877716,128,"Noel Singgung Partai ""K"" di Kasus K3, KPK Minta Buktikan di Persidangan"
+2026-01-27,3,0.016152914613485336,128,Istana Tegaskan Tidak Intervensi Soal Ancaman Hapus Kritik ke Presiden di Media Sosial
+2026-01-27,4,0.015482204966247082,128,"Wamenhaj Dahnil: 177.000 Jemaah Haji Berisiko Kesehatan Tinggi, Petugas Harus Siap Melayani"
+2026-01-27,5,0.014503506012260914,128,"Gus Irfan Sidak Barak Pelatihan Petugas Haji, Pastikan Siap Layani Jemaah di Tanah Suci"
+2026-01-28,1,0.018460754305124283,128,"IHSG Ditutup Menguat Tipis ke 8.980, Saham BUMI, PTRO hingga GOTO Kompak Hijau"
+2026-01-28,2,0.017643999308347702,128,"Sidang Korupsi Tata Kelola Minyak, Ahok Singgung agar Jokowi Ikut Diperiksa"
+2026-01-28,3,0.017046503722667694,128,"Misteri Hilangnya Tangan Kanan Xi Jinping, Diduga karena Pelanggaran Hukum Berat"
+2026-01-28,4,0.015726707875728607,128,"IHSG Sesi I Melemah ke 8.921, Saham ADRO, BBCA hingga ASII Terjun ke Zona Merah"
+2026-01-28,5,0.015213698148727417,128,Ahok Cerita Mau Lempar Botol ke Corsec Gara-gara Tak Dikabari Perombakan Direksi
+2026-01-29,1,0.020250800997018814,128,"Polisi Periksa 10 Saksi di Kasus Kematian Lula, Ada Reza Arap hingga Dokter RS"
+2026-01-29,2,0.016517404466867447,128,"IHSG Dibuka Amblas 5,09% ke Level 7.896, Efek Pembekuan dari MSCI Berlanjut"
+2026-01-29,3,0.015806570649147034,128,Ketua KPK Blak-blakan soal Peluang Periksa Jokowi di Kasus Kuota Haji
+2026-01-29,4,0.015712972730398178,128,"IHSG Ambruk hingga Trading Halt, Ini Kata Lo Kheng Hong"
+2026-01-29,5,0.014288732782006264,128,"Lengkap! Daftar Nama Ketua dan Anggota Dewan Energi Nasional: Bahlil, Purbaya, dll"
+2026-01-30,1,0.033818162977695465,128,MUI Desak Pemerintah Mundur dari Dewan Perdamaian: Tidak Pro Palestina!
+2026-01-30,2,0.02372734062373638,128,Iran Siap Hadapi Serangan AS Tanpa Gunakan Senjata Nuklir
+2026-01-30,3,0.01791045255959034,128,"Pemerintah Bakal Ukur Otak dan Fisik Anak Setelah Dapat MBG, BGN: Tiru Jepang"
+2026-01-30,4,0.0165860578417778,128,Prabowo Dijadwalkan Tutup Diklat Petugas Haji 2026 di Barak
+2026-01-30,5,0.013970144093036652,128,"Seskab Teddy Terima Emil Dardak, Bahas Infrastruktur Surabaya"
+2026-02-02,1,0.019964519888162613,128,Polri Buru Riza Chalid Usai Diketahui Berada di Negara Anggota Interpol
+2026-02-02,2,0.019152700901031494,128,"Download Jadwal Imsakiyah Ramadan 2026 PDF, Seluruh Wilayah RI"
+2026-02-02,3,0.015841899439692497,128,KPK Duga Bos Maktour Rusak dan Hilangkan Barang Bukti Kasus Kuota Haji
+2026-02-02,4,0.015148870646953583,128,Data Terbaru! RI Bisa Tukar Data Transaksi Kripto dengan 117 Negara
+2026-02-02,5,0.014723134227097034,128,"IHSG Lanjut Merosot 4,66% Tinggalkan 8.000, Saham Emas ANTM, BRMS, AMMN Ambles"
+2026-02-03,1,0.018183859065175056,128,Ini Alasan Prabowo Minta Indonesia Harus Siap untuk Perang
+2026-02-03,2,0.01780935935676098,128,"Airlangga: Negosiasi Indonesia–AS Rampung, Tinggal Finalisasi Dokumen Hukum"
+2026-02-03,3,0.017293807119131088,128,"Di Tengah Isu Reshuffle, Demokrat Percaya Diri Seluruh Kader yang Jadi Menteri Telah Bekerja Keras"
+2026-02-03,4,0.016425838693976402,128,"Rupiah Ditutup Melemah ke Rp 16.798 Per Dolar AS Hari Ini (2/2), Asia Bervariasi"
+2026-02-03,5,0.01548396609723568,128,"Pemda Bali Tak Bisa Atasi Sampah, Prabowo: Bagaimana Turis Mau Datang ke Sana?"
+2026-02-04,1,0.02610943652689457,128,"Gaza Diserang Lagi, Menlu Sugiono Sebut Belum Ada Sanksi BoP ke Israel"
+2026-02-04,2,0.02298824116587639,128,"Dewan Perdamaian Gaza, Menag Sebut Presiden Prabowo Bisa Membaca Tanda Zaman"
+2026-02-04,3,0.02245246060192585,128,"MUI: Prabowo Sebut Indonesia Bisa Keluar dari Dewan Perdamaian, Asalkan..."
+2026-02-04,4,0.021192587912082672,128,"Ini 9 Tipologi Masjid di Indonesia, dari Masjid Negara hingga Musala"
+2026-02-04,5,0.02118699625134468,128,Istana Bantah Isu Orang Jokowi Masuk Radar Reshuffle Kabinet Prabowo
+2026-02-05,1,0.02269200049340725,128,Menlu Sugiono Sebut Ada Peran Palestina Dalam Keputusan RI Gabung Dewan Perdamaian
+2026-02-05,2,0.02235109731554985,128,"Prabowo: RI Bisa Keluar Dewan Perdamaian, Uang Iuran untuk Bantu Rakyat Palestina"
+2026-02-05,3,0.01899367943406105,128,"AS Tembak Jatuh Drone Iran, Harga Minyak Sempat Naik"
+2026-02-05,4,0.018985485658049583,128,Istana: Prabowo Beri Perhatian Serius pada Kasus Anak SD Gantung Diri di NTT
+2026-02-05,5,0.017202885821461678,128,"Rupiah Ditutup Melemah, Sentuh Level Rp16.776 per Dolar AS"
+2026-02-06,1,0.022192630916833878,128,Koalisi Masyarakat Laporkan Kasus Genosida di Palestina ke Kejagung
+2026-02-06,2,0.01759871281683445,128,"Adies Kadir Bakal Dilantik Jadi Hakim MK, Ini Pesan dari Menko Yusril Ihza"
+2026-02-06,3,0.016062699258327484,128,"Siswa SD Bunuh Diri di NTT, Kemendikdasmen: Almarhum Penerima PIP"
+2026-02-06,4,0.014465592801570892,128,"Tiba di Indonesia, PM Australia Anthony Albanese Akan Bertemu Prabowo Besok (6/2)"
+2026-02-06,5,0.014223379082977772,128,"Rilis Data PDB 5,11% Tak Mampu Angkat IHSG Ditutup Turun ke 8.103"
+2026-02-09,1,0.018966596573591232,128,"Arab Saudi Tetapkan 1 Ramadhan 1447 H Lebih Awal, Indonesia Kapan?"
+2026-02-09,2,0.01654309406876564,128,"Disaksikan Langsung Prabowo, Ini Daftar Lengkap Pengurus MUI 2025-2030"
+2026-02-09,3,0.014640565030276775,128,Trump Rencanakan Pertemuan Resmi Perdana Board of Peace (BoP) Bulan Ini
+2026-02-09,4,0.014035714790225029,128,Pesan Persatuan Prabowo di Hadapan Warga Nahdliyin untuk Menyambut Ramadan
+2026-02-09,5,0.013874019496142864,128,Bareskrim Cekal Bos Dana Syariah Indonesia (DSI) yang Jadi Tersangka Kasus Fraud
+2026-02-10,1,0.02340216562151909,128,KSAD Maruli: TNI AD Mulai Berlatih Untuk Ikut Pasukan Perdamaian Gaza
+2026-02-10,2,0.019963974133133888,128,Puasa Qadha Belum Selesai Sampai Ramadan? Ini Hukum dan Konsekuensinya
+2026-02-10,3,0.019208654761314392,128,Tata Cara Puasa Qadha Ramadan dan Perbedaanya dengan Fidyah
+2026-02-10,4,0.01747494377195835,128,Pemerintah Godok Aturan Pelibatan TNI Dalam Penanggulangan Terorisme
+2026-02-10,5,0.016955727711319923,128,"Kasus Siswa SD di NTT, Sosiolog Desak Layanan Mental untuk Anak"
+2026-02-11,1,0.030415738001465797,128,Indonesia Bersiap Jadi Negara Pertama yang Kirim Pasukan Stabilisasi Internasional (ISF) di Gaza
+2026-02-11,2,0.019099511206150055,128,"PM Jepang Takaichi Bakal Percepat Janji Kebijakan, dan Pertahankan Kabinet Lama"
+2026-02-11,3,0.01781735010445118,128,Raja Charles III Siap Dukung Polisi Terkait Keterlibatan Adiknya di Skandal Epstein
+2026-02-11,4,0.01690950058400631,128,Istana: RI Bakal Kirim 8.000 Pasukan TNI ke Gaza
+2026-02-11,5,0.016889017075300217,128,IHSG Ditutup Menghijau ke Level 8.137 Meski Dibayangi Sentimen FTSE Russell
+2026-02-12,1,0.02299070544540882,128,"India Tegaskan Larangan Rokok Elektronik, Tolak Tekanan Philip Morris"
+2026-02-12,2,0.020379099994897842,128,"Harga Minyak Dunia Naik Rabu (11/2), Dipicu Ketegangan AS–Iran dan Permintaan India"
+2026-02-12,3,0.018316108733415604,128,"Pasar Masih Pantau Ketegangan di Iran, Harga Minyak Dunia Tak Banyak Berubah"
+2026-02-12,4,0.01720951311290264,128,"Kronologi Penyerangan Pesawat Smart Air di Papua, Ditembak dari Arah Hutan"
+2026-02-12,5,0.01630142144858837,128,"Yaqut Ajukan Praperadilan, KPK Tetapkan Tersangka Sesuai Alat Bukti"
+2026-02-13,1,0.02883513830602169,128,"Israel Resmi Gabung Board of Peace (BOP), Kemenlu Buka Suara soal Sikap RI"
+2026-02-13,2,0.028765693306922913,128,Tok! Israel Resmi Gabung Dewan Perdamaian (BoP) Besutan Trump
+2026-02-13,3,0.025049254298210144,128,Menilik Sikap Indonesia Usai Israel Gabung Dewan Perdamaian
+2026-02-13,4,0.022738004103302956,128,"Apa Itu Tarhib Ramadan? Berikut Arti, Tujuan, dan Bentuk Persiapannya"
+2026-02-13,5,0.015624064020812511,128,"IHSG Ditutup Turun ke Level 8.265, Saham UNVR, BMRI & TLKM Masih Cuan"
+2026-02-18,1,0.02489575371146202,128,"Prediksi 1 Ramadan di Arab, Eropa hingga Amerika"
+2026-02-18,2,0.021437689661979675,128,"Perbedaan Awal Ramadan, Ketua Umum PP Muhammadiyah: Disikapi dengan Tasamuh"
+2026-02-18,3,0.019144410267472267,128,"Salat Tarawih Sendiri atau Berjamaah, Mana yang Lebih Baik? Ini Pendapat Para Ulama"
+2026-02-18,4,0.01849835179746151,128,Dubes Kartini Sjahrir Tegaskan Komitmen Perkuat Hubungan Indonesia-Jepang
+2026-02-18,5,0.017672063782811165,128,Tata Cara Sholat Tarawih Sendiri di Rumah dan Hukumnya
+2026-02-19,1,0.03298743814229965,128,"Hamas Tolak Ultimatum Israel soal Lucuti Senjata 60 Hari, Sebut Desakan Tak Berdasar"
+2026-02-19,2,0.019101781770586967,128,"Kenalan dengan Rudal S-400 Triumf Rusia, Alutsista yang Bikin NATO Ketar-ketir"
+2026-02-19,3,0.018199633806943893,128,"Rumah Jusuf Kalla di Jaksel Ditabrak Mobil, Polisi Ungkap Penyebabnya"
+2026-02-19,4,0.017503486946225166,128,Dokumen Epstein Guncang Dunia: Siapa Saja Nama yang Terseret?
+2026-02-19,5,0.01720985397696495,128,"Menlu Sugiono Bertemu Sekjen PBB, Jelaskan Langkah Indonesia di Board of Peace"
+2026-02-20,1,0.03040975332260132,128,Kata Ketua DPR Puan Soal Indonesia Satu Panggung dengan Israel dalam Board of Peace Palestina
+2026-02-20,2,0.026351451873779297,128,"Sederet Negara yang Hadir dan Absen di KTT Board of Peace, Ada Israel?"
+2026-02-20,3,0.021400082856416702,128,"Misi Perdamaian Gaza di BoP: Indonesia Wakil Komandan ISF, Terjunkan 8.000 Pasukan"
+2026-02-20,4,0.021128050982952118,128,Daftar Negara dengan Puasa Terlama dan Tercepat di Dunia Saat Ramadan 2026
+2026-02-20,5,0.01708797551691532,128,"Satu Panggung dengan Trump dan Netanyahu di KTT BoP, Prabowo Tekankan Good Neighbor Policy"
+2026-02-23,1,0.029792413115501404,128,Protes Indonesia Hingga Negara Arab Usai Dubes AS Dukung Israel Lakukan Perluasan Penjajahan
+2026-02-23,2,0.029179368168115616,128,Indonesia Hingga Negara Arab Kecam Dubes AS Usai Dukung Israel Lakukan Perluasan Penjajahan
+2026-02-23,3,0.024545762687921524,128,Meksiko Ogah Gabung Board of Peace karena Palestina Tak Dilibatkan
+2026-02-23,4,0.020006239414215088,128,Puluhan Rudal dan Drone Rusia Gempur Infrastruktur Energi Ukraina
+2026-02-23,5,0.016524534672498703,128,"Sengkarut Penguasaan Hotel Sultan: Batal Eksekusi Era Jokowi, Berlanjut di Zaman Prabowo"
+2026-02-24,1,0.021996211260557175,128,Menlu Tegaskan Komitmen RI pada Pelucutan Senjata Multilateral di Sidang HAM PBB
+2026-02-24,2,0.0191050972789526,128,"Jadwal Buka Puasa di Jakarta Hari Ini, Senin 23 Februari dan Waktu Salat Tarawih"
+2026-02-24,3,0.018180927261710167,128,Kronologi Kematian Bos Kartel Narkoba El Mencho Picu Kerusuhan di Meksiko
+2026-02-24,4,0.01807858981192112,128,"Kontroversi Pelonggaran Sertifikasi Halal: Tertulis dalam ART, Tapi Dibantah Istana"
+2026-02-24,5,0.016382714733481407,128,Dankorbrimob Buka Suara Usai Anggota Aniaya Siswa hingga Tewas di Tual
+2026-02-25,1,0.024199899286031723,128,"Kemlu: Situasi Keamanan di Iran Terpantau Kondusif, WNI Diminta Tetap Waspada"
+2026-02-25,2,0.021152406930923462,128,"Bahlil Diserbu Diaspora Saat Berkunjung ke Yordania: Kami Ngefans, Sangat Karismatik"
+2026-02-25,3,0.01827922835946083,128,"El Mencho Tewas dalam Serangan Militer, Claudia Sheinbaum: Rakyat Meksiko Harus Bangga"
+2026-02-25,4,0.01802278682589531,128,Diaspora RI Sambut Kedatangan Prabowo di Yordania: Kami Bangga jadi WNI Bukan WNA
+2026-02-25,5,0.016209132969379425,128,Eks Dirut KAI Ignasius Jonan Diangkat Jadi Presiden Komisaris Soho Global (SOHO)
+2026-02-26,1,0.027309399098157883,128,"Prabowo dan Abdullah II Koordinasi Isu Palestina, Dorong Solusi Dua Negara"
+2026-02-26,2,0.025292474776506424,128,"Jejak Persahabatan Prabowo-Raja Yordania: Ramadan Mubarak, Saudaraku Tersayang"
+2026-02-26,3,0.02492082305252552,128,"Menlu Sugiono: Yordania Siap Dukung Indonesia, Bahas West Bank hingga Kerja Sama Militer"
+2026-02-26,4,0.021327827125787735,128,Raja Abdullah II Puji Komitmen Prabowo untuk Palestina
+2026-02-26,5,0.020756850019097328,128,"Prabowo Bertemu Raja Abdullah II di Istana Basman, Bahas Kerja Sama Strategis RI-Yordania"
+2026-02-27,1,0.03204832598567009,128,"Palestina Bentuk Kantor Penghubung Dengan BoP, Pasukan RI Siap Jaga Warga Sipil Gaza"
+2026-02-27,2,0.020171955227851868,128,"RI Siap Kirim 8.000 Prajurit ke ISF Gaza, Kemhan Tunggu Arahan Prabowo"
+2026-02-27,3,0.01751815527677536,128,"Hukum Puasa bagi Ibu Hamil, Wajib atau Boleh Tidak Berpuasa? Ini Penjelasan Fikih dan Medisnya"
+2026-02-27,4,0.017108535394072533,128,Hati-Hati! Beberapa Hal Sepele Ini Dapat Membatalkan Pahala Puasa Ramadan
+2026-02-27,5,0.015840183943510056,128,"Harga Minyak Bergerak Tipis, Pasar Cermati Perkembangan Pembicaraan AS–Iran"
+2026-03-02,1,0.022159477695822716,128,Reaksi Dunia Terkait Serangan Israel-AS Terhadap Iran
+2026-03-02,2,0.022014236077666283,128,"Dinilai Langgar Piagam PBB, Kedubes Iran Kutuk Serangan Israel-AS"
+2026-03-02,3,0.020198026672005653,128,"Kedubes Iran Kecam Serangan AS-Israel, Puji Sikap Tegas Indonesia"
+2026-03-02,4,0.019575966522097588,128,Daftar Petinggi Iran yang Dilaporkan Tewas setelah Diserang AS dan Israel
+2026-03-02,5,0.01712200790643692,128,Bagaimana Nasib Iran Usai Ayatollah Khamenei Tewas Dibunuh AS-Israel?
+2026-03-03,1,0.02592300996184349,128,"Dubes Iran: Serangan AS dan Israel Tewaskan 555 Warga Sipil, Tak Sesuai Piagam PBB"
+2026-03-03,2,0.022625455632805824,128,Dubes Iran Minta Negara Islam Kutuk Serangan Israel-AS ke Iran
+2026-03-03,3,0.022389918565750122,128,"Serangan di Tengah Perundingan Nuklir, Iran Pertanyakan Komitmen AS-Israel"
+2026-03-03,4,0.021723072975873947,128,Tegas! Dubes Iran Sebut Tewasnya Khamenei Tak Goyahkan Negara
+2026-03-03,5,0.018756186589598656,128,Dubes Boroujerd Desak Negara Islam Kutuk Serangan Israel-AS ke Iran
+2026-03-04,1,0.03674160689115524,128,Apa Perbedaan Antara Presiden Iran dan Pemimpin Tertingginya? Ini Penjelasannya
+2026-03-04,2,0.02511494979262352,128,Densus 88 Tingkatkan Pengawasan Terorisme Usai Konflik Iran dengan AS-Israel Meningkat
+2026-03-04,3,0.022558575496077538,128,Analisa Mengapa Iran Tak Bisa Andalkan Bantuan Rusia-China
+2026-03-04,4,0.02033097669482231,128,Eks Menlu Hassan Wirajuda Sebut Syarat RI Jadi Juru Damai Perang Iran vs AS-Israel
+2026-03-04,5,0.01916656270623207,128,Menlu Sugiono Jelaskan soal Evakuasi WNI di Teheran saat Perang Iran vs AS-Israel
+2026-03-05,1,0.030548805370926857,128,"Dampak Berlapis Konflik Iran vs AS-Israel ke RI, dari Ekonomi hingga Keamanan"
+2026-03-05,2,0.023574242368340492,128,Donald Trump Ingin Putus Hubungan AS-Spanyol karena Keinginannya Tak Dituruti
+2026-03-05,3,0.022548487409949303,128,"AS Hancurkan Kapal Perang Iran di Lepas Pantai Sri Lanka, ""Dekat Indonesia"""
+2026-03-05,4,0.02132297493517399,128,Iran Ancam Serang Setiap Kapal yang Lintasi Selat Hormuz
+2026-03-05,5,0.020212577655911446,128,"Usai Jokowi hingga Petinggi Parpol, Prabowo Akan Bertemu Ormas Islam di Istana"
+2026-03-06,1,0.026211615651845932,128,Korban Tewas Akibat Perang AS-Israel vs Iran Capai 1.348 Orang
+2026-03-06,2,0.02539767697453499,128,Bupati Trenggalek Tertahan di Arab Saudi Usai Umrah Gara-gara Perang AS-Israel vs Iran
+2026-03-06,3,0.025320235639810562,128,"Waketum MUI: BoP Tidak Efektif saat Perang Iran vs AS-Israel, Indonesia Keluar Saja"
+2026-03-06,4,0.02514137327671051,128,"NATO Tembak Jatuh Rudal Iran ke Turki, Putra Khamenei Muncul sebagai Suksesor Terkuat"
+2026-03-06,5,0.020583365112543106,128,"Kemenpar Sebut Pariwisata di Bali Stabil, Tak Terdampak Iran vs Israel-AS"
+2026-03-09,1,0.03134284168481827,128,"Konflik Iran-Israel Memanas, Trump Sebut Perang Bisa Berakhir Tanpa Negosiasi"
+2026-03-09,2,0.029298748821020126,128,Iran Minta Maaf ke Negara Tetangga saat Serangan dengan Israel Terus Berlanjut
+2026-03-09,3,0.028270456939935684,128,"Pertama Kali, Serangan Udara Israel Hantam Fasilitas Minyak Iran"
+2026-03-09,4,0.0229374710470438,128,Pemerintahan Trump Sepakat Jual 20.000 Bom ke Israel Tanpa Persetujuan Kongres
+2026-03-09,5,0.02283598482608795,128,Arab Saudi Klaim Tangkis 2 Rudal dan Serangan Drone dari Iran
+2026-03-10,1,0.03254751116037369,128,"Trump Klaim Perang Timur Tengah Segera Usai, Tapi Iran Menunjukkan Hal Sebaliknya"
+2026-03-10,2,0.03102029301226139,128,"Cerita Warga Iran saat Israel Serang Fasilitas Minyak, Bak Malam jadi Siang"
+2026-03-10,3,0.029177796095609665,128,"Mojtaba Khamenei Resmi Jadi Pemimpin Tertinggi Iran, Putin Ucapkan Selamat"
+2026-03-10,4,0.02651735581457615,128,"AS dan Israel Harus Dengar, Rusia Akan ""Melindungi"" Iran"
+2026-03-10,5,0.01962476596236229,128,"Harga Minyak Meroket Imbas Perang Iran vs AS-Israel, Trump: Demi Keselamatan Dunia"
+2026-03-11,1,0.027313297614455223,128,Trump: AS Akan Hantam Iran 20 Kali Lebih Keras Jika Tutup Selat Hormuz
+2026-03-11,2,0.02646341361105442,128,"Jusuf Kalla Terima Dubes Arab Saudi, Bahas Perang AS-Israel vs Iran"
+2026-03-11,3,0.023764312267303467,128,"Prabowo Panggil Kepala Bappisus ke Istana, Bahas Dampak Perang Iran vs AS-Israel"
+2026-03-11,4,0.02126586064696312,128,"Donald Trump Telepon Vladimir Putin, Bahas Perang Iran dan Perdamaian"
+2026-03-11,5,0.02038058266043663,128,"Pemimpin Tertinggi Iran Harus dapat Izin dari Trump, Jika Tidak...."
+2026-03-12,1,0.034254107624292374,128,"DPR Raker dengan Menteri Haji, Bahas Pelaksanaan Haji di Tengah Perang AS-Israel vs Iran"
+2026-03-12,2,0.030091818422079086,128,Kim Jong-Un Dukung Mojtaba Khamenei sebagai Pemimpin Tertinggi Iran
+2026-03-12,3,0.023923100903630257,128,Ini Doa Menteri Agama Bagi Indonesia Saat Nuzulul Quran
+2026-03-12,4,0.022717345505952835,128,Profesor Asal China Bocorkan Dampak Besar Perang AS-Israel vs Iran bagi Dunia
+2026-03-12,5,0.02033516764640808,128,"Update Selat Hormuz, Amerika Serang Kapal Penebar Ranjau Iran di Jalur Minyak Dunia"
+2026-03-13,1,0.02435055375099182,128,"Mojtaba Khamenei Tolak Buka Selat Hormuz, Siap Buka Medan Perang Baru"
+2026-03-13,2,0.02076176553964615,128,"Beredar Kabar Benjamin Netanyahu Meninggal Dunia dalam Serangan Iran, Benarkah?"
+2026-03-13,3,0.020290333777666092,128,"Trump Sebut Iran Diujung Tanduk, Infrastruktur Bisa Saja Dilumpuhkan Tapi.."
+2026-03-13,4,0.0176454596221447,128,"Puan Harap Ibadah Haji 2026 Dilaksanakan, Meski Ada Perang di Timur Tengah"
+2026-03-13,5,0.016598518937826157,128,"Perang AS-Iran Risiko Krisis Pangan, Pupuk RI Jadi Rebutan Banyak Negara"
+2026-03-16,1,0.03169667720794678,128,"Kedubes Iran Ungkap Dampak Serangan AS-Israel, 175 Siswi Meninggal Dunia"
+2026-03-16,2,0.030865883454680443,128,"Hamas Minta Iran Tidak Serang Negara Tetangga, Tetap Tegaskan Hak Bela Diri"
+2026-03-16,3,0.027795027941465378,128,Prabowo: Perang AS-Israel terhadap Iran Membingungkan dan Tidak Rasional
+2026-03-16,4,0.02510232664644718,128,Indonesia Kecam Serangan Israel ke Lebanon dan UNIFIL
+2026-03-16,5,0.024736052379012108,128,"Setelah Dikabarkan Meninggal, Netanyahu Rilis Pidato Perdana Usai Perang Iran"
+2026-03-17,1,0.03315981104969978,128,"Jepang dan Korsel ""Tak Bergerak"" Meski Trump Minta Bantuan di Selat Hormuz"
+2026-03-17,2,0.02516006864607334,128,"Negara Teluk Dorong AS Netralisasi Iran, Krisis Selat Hormuz Makin Memburuk"
+2026-03-17,3,0.02379046007990837,128,"Fokus Konflik Iran, Pertemuan Trump–Xi Berpotensi Ditunda"
+2026-03-17,4,0.01904713176190853,128,Trump Dicuekin Sekutu karena Minta Kapal Perang Dikirim ke Selat Hormuz
+2026-03-17,5,0.018732082098722458,128,"Harga Minyak Dunia Terus Naik, Trump Cari Koalisi Global untuk Buka Selat Hormuz"
+2026-03-25,1,0.02911842241883278,128,"Selat Hormuz Jadi Sorotan, Modi dan Trump Bahas Dampak Global Konflik Iran"
+2026-03-25,2,0.028254300355911255,128,Iran Ancam Balik Trump Bakal Hancurkan Fasilitas Energi di Timur Tengah & Tutup Total Hormuz
+2026-03-25,3,0.02613985911011696,128,"Trump Tunda Mengebom Jaringan Listrik Iran, Tiga Negara Ini Jadi Mediator"
+2026-03-25,4,0.02505042590200901,128,"Bantah Klaim Donald Trump, Iran: Tidak Ada Pembicaraan dengan AS"
+2026-03-25,5,0.02238301932811737,128,Update Perang Timteng Hari Ke-25: Iran Bantah Klaim Trump dengan Hantaman Rudal
+2026-03-26,1,0.02325187809765339,128,AS Siapkan 3.000–4.000 Pasukan Tambahan ke Timur Tengah di Tengah Konflik Iran
+2026-03-26,2,0.0211233738809824,128,"Perang Makin Panas, China Bujuk Iran Agar Mau Negosiasi dengan AS"
+2026-03-26,3,0.018093887716531754,128,"IHSG Dibuka Melemah ke 7.083, Saham ASII, TLKM & AMMN Masih Melaju"
+2026-03-26,4,0.017738092690706253,128,Transaksi Jumbo Warnai Gerak Harga Minyak Usai Komentar Trump soal Serangan ke Iran
+2026-03-26,5,0.01756158098578453,128,"Trump Tunjuk Bos Meta, Oracle, dan Nvidia Masuk Dewan Kebijakan AI AS"
+2026-03-27,1,0.02453083172440529,103,"Trump Klaim Iran Minta Damai, AS Ajukan Proposal untuk Akhiri Perang"
+2026-03-27,2,0.024037586525082588,103,"Lobi Anwar Ibrahim berhasil, Iran Izinkan Kapal-Kapal Malaysia Melintas Selat Hormuz"
+2026-03-27,3,0.023488011211156845,103,Kapan Mulai Qadha Puasa Ramadan? Ini Waktu yang Tepat dan Bacaan Niatnya
+2026-03-27,4,0.020876657217741013,103,Ancaman Trump: Iran Dihantam Lebih Keras Jika Tolak Damai
+2026-03-27,5,0.019821733236312866,103,Kunjungan Trump ke China Mundur 14-15 Mei Gara-gara Perang Iran
+2026-03-30,1,0.03413772955536842,128,Israel Larang Pemimpin Katolik Ikuti Misa Minggu Palma di Gereja Makam Kudus Yerusalem
+2026-03-30,2,0.024098774418234825,128,Daftar Negara yang Kapal Minyaknya Dapat Lampu Hijau Iran Melintasi Selat Hormuz
+2026-03-30,3,0.022687388584017754,128,"Donald Trump: Iran Lumpuh, Nato Macan Kertas, Deklarasikan Gulf of America"
+2026-03-30,4,0.02253633365035057,128,"Rusia–Iran Bahas Jalur Damai, Bayang-Bayang Dukungan Militer Kian Menguat"
+2026-03-30,5,0.022349243983626366,128,Iduladha Tanggal Berapa? Ini Jawaban menurut Kalender Hijriah Indonesia dan Muhammadiyah
+2026-03-31,1,0.02889109216630459,128,"Satu Prajurit Gugur, Tiga Terluka Akibat Serangan Israel di Lebanon"
+2026-03-31,2,0.024782827123999596,128,"Ultimatum Baru Trump ke Iran: Selat Hormuz Harus Terbuka, Atau Hancur!"
+2026-03-31,3,0.02425936423242092,128,"4 Prajurit TNI jadi Korban Serangan Israel di Lebanon, Satu Orang Meninggal Dunia"
+2026-03-31,4,0.022539380937814713,128,"Prajurit TNI Gugur di Lebanon, Indonesia Kecam Serangan dan Desak Investigasi Transparan"
+2026-03-31,5,0.020936142653226852,128,Kedubes Iran Sampaikan Belasungkawa Gugurnya Prajurit TNI di Bawah Unifil di Lebanon
+2026-04-01,1,0.02889172174036503,128,Donald Trump Disebut Siap Akhiri Perang Iran Meski Selat Hormuz Masih Tertutup
+2026-04-01,2,0.025154512375593185,128,Paus Leo Mendesak Trump Mencari Jalan Keluar untuk Mengakhiri Perang Iran
+2026-04-01,3,0.02399422973394394,128,"Kronologi 2 Prajurit Gugur di Lebanon, Tewas saat Kawal Tim Perdamaian PBB"
+2026-04-01,4,0.021303903311491013,128,"Setelah dari Jepang, Prabowo Tiba di Seoul untuk Bertemu Presiden Korsel"
+2026-04-01,5,0.020387638360261917,128,"3 Prajurit TNI Gugur, Ketua MPR Desak Pemerintah Tarik Pasukan di Lebanon"
+2026-04-02,1,0.0280088372528553,128,"Duta Besar Iran Kunjungi Solo, Bertemu Jokowi dan Wali Kota Surakarta"
+2026-04-02,2,0.02767525613307953,128,Delegasi RI Desak PBB Usut 3 Prajurit yang Gugur: Jangan Sekadar Alasan Israel
+2026-04-02,3,0.026628941297531128,128,"Trump Sebut AS Akan Tinggalkan Perang dalam 2-3 Minggu, Iran Tolak Negosiasi"
+2026-04-02,4,0.021762434393167496,128,Kapan Iduladha 2026? Pemerintah-Muhammadiyah Diprediksi Berbarengan
+2026-04-02,5,0.0212715957313776,128,"Jutaan Orang Demo No King di AS, Protes Trump dan Isu Otoritarianisme"
+2026-04-06,1,0.022163867950439453,128,"Trump Kembali Ultimatum Iran, Deadline 7 April untuk Buka Selat Hormuz"
+2026-04-06,2,0.020777057856321335,128,Intelijen AS: Iran Tak Akan Segera Buka Selat Hormuz
+2026-04-06,3,0.020672354847192764,128,"Deretan Negara dengan Tentara Terbesar di Dunia Tahun 2026, Ini Posisi Indonesia"
+2026-04-06,4,0.019348952919244766,128,Rohingya Kecam Pemilihan Min Aung Hlaing Sebagai Presiden Myanmar
+2026-04-06,5,0.018980707973241806,128,Trump Kembali Ultimatum 48 Jam: Ancam Hujan Api Neraka & Serang Fasilitas Energi Iran
+2026-04-07,1,0.0369083508849144,128,"Trump Maki-Maki dan Ancam Iran untuk Buka Selat Hormuz, Berujung Diprotes Warga AS"
+2026-04-07,2,0.032416366040706635,128,"8 Negara yang Diizinkan Melintasi Selat Hormuz, Indonesia Tidak Termasuk? Ini Faktanya"
+2026-04-07,3,0.019461993128061295,128,Harga Minyak Dunia Naik Lagi Hari Ini Usai Trump Ultimatum Iran
+2026-04-07,4,0.018252450972795486,128,FAKTA Indonesia Protes Rencana Melegalkan Kembali Iklan Rokok di Jakarta
+2026-04-07,5,0.0179181806743145,128,UEA: Akses Selat Hormuz Harus Dijamin dalam Kesepakatan AS-Iran
+2026-04-08,1,0.03494225814938545,128,Trump Melunak! AS dan Israel Setujui Gencatan Senjata Dua Minggu dengan Iran
+2026-04-08,2,0.025760719552636147,128,"Trump Ancam Serang Infrastruktur Iran, Jika Selat Hormuz Tidak Dibuka Kembali"
+2026-04-08,3,0.024305719882249832,128,"Trump Ancam ""Peradaban Akan Musnah Malam Ini"" Jika Iran Tak Capai Kesepakatan"
+2026-04-08,4,0.023313328623771667,128,"Batas Ultimatum, Donald Trump Ancam Hancurkan Peradaban Iran Malam Ini"
+2026-04-08,5,0.023285720497369766,128,"Istanbul Tegang: Penyerang Bersenjata Serang Konsulat Israel, Dua Polisi Luka Ringan"
+2026-04-09,1,0.02133750542998314,127,"Prasetyo Hadi Sambut Gencatan Senjata Iran-Israel, Tekankan Pentingnya Redam Eskalasi"
+2026-04-09,2,0.020910292863845825,127,"Alasan Prabowo Kumpulkan Ratusan Menteri dan Pejabat di Istana, Efek Perang AS-Iran?"
+2026-04-09,3,0.019769638776779175,127,"Bantah Klaim Iran, Dubes UEA: Rudal & Drone Iran Justru Hantam Fasilitas Sipil"
+2026-04-09,4,0.01827479526400566,127,"Trump Umumkan Gencatan Senjata Dua Pekan, Iran Buka Selat Hormuz"
+2026-04-09,5,0.017936889082193375,127,"Trump Setujui 10 Poin Proposal dari Iran untuk Negosiasi Lebih Lanjut, Apa Isinya?"
+2026-04-10,1,0.03847602754831314,128,"Iran Tutup Selat Hormuz, Gedung Putih Buka Suara"
+2026-04-10,2,0.024442607536911964,128,Krisis Energi Global Diprediksi Berlarut Meski Iran Buka Selat Hormuz
+2026-04-10,3,0.019875161349773407,128,"Seruan ""TACO"" Menggema untuk Ejek Trump usai Umumkan Gencatan Senjata Iran, Apa Artinya?"
+2026-04-10,4,0.017969854176044464,128,"Prabowo ke Anak Muda: Indonesia Cerah, yang Bilang Gelap Matanya Buram"
+2026-04-10,5,0.01563967391848564,128,Bursa Asia Bervariasi di Pagi Ini (9/4): Iran Tuduh AS Langgar Gencatan Senjata!
+2026-04-13,1,0.027159228920936584,128,Israel Tunjuk Roman Gofman sebagai Kepala Mossad Baru
+2026-04-13,2,0.02510720118880272,128,"Rusia-Ukraina Saling Tuduh Langgar Gencatan Senjata Paskah, Serangan Drone Berlanjut"
+2026-04-13,3,0.021509822458028793,128,Iran Tegaskan Tak Akan Tunduk pada Ancaman AS
+2026-04-13,4,0.021059900522232056,128,Iran dan AS Gagal Capai Kesepakatan Damai
+2026-04-13,5,0.02011009491980076,128,Perkembangan Konflik Iran-AS Sepekan: Selat Hormuz hingga Diplomasi Islamabad
+2026-04-14,1,0.02685309574007988,128,"Diserang Trump, Paus Leo Tetap Suarakan Perdamaian atas Konflik Iran"
+2026-04-14,2,0.02445523999631405,128,"Trump Serang Paus Leo, Kritik Keras Soal Kejahatan dan Kebijakan Luar Negeri"
+2026-04-14,3,0.02350781485438347,128,Trump Ancam Hancurkan Kapal Iran di Selat Hormuz usai Terapkan Blokade
+2026-04-14,4,0.022309349849820137,128,Pariwisata Dubai & Timur Tengah Tergunjang Akibat Perang Amerika-Iran
+2026-04-14,5,0.0193588025867939,128,"Prabowo Lanjutkan Diplomasi Eropa, Dijadwalkan Bertemu Macron di Paris"
+2026-04-15,1,0.043534062802791595,128,"Italia Resmi Stop Perjanjian Militer dengan Israel, Ini Alasan PM Giorgia Meloni"
+2026-04-15,2,0.023880863562226295,128,"Catatan Pertemuan Prabowo dan Macron, Kerja Sama Bilateral RI-Prancis Ditingkatkan"
+2026-04-15,3,0.02177368476986885,128,PM Pakistan Kunjungi Arab Saudi dan Turki di Tengah Prospek Dialog Baru AS-Iran
+2026-04-15,4,0.020956305786967278,128,Trump Sebut Negosiasi Damai dengan Iran Bisa Digelar 2 Hari Lagi
+2026-04-15,5,0.02065218985080719,128,Kapal Tanker Terkait Iran Tetap Melintas di Selat Hormuz Meski Diblokade AS
+2026-04-16,1,0.024736005812883377,128,"Lawatan ke Rusia & Prancis, Prabowo Perkuat Diplomasi Indonesia di Eropa"
+2026-04-16,2,0.02414063736796379,128,Donald Trump Minta Xi Jinping Tak Pasok Senjata ke Iran
+2026-04-16,3,0.022672343999147415,128,"Paus Kritik Perang Iran, JD Vance: Paus Harus Berhati-Hati Bicara Teologi"
+2026-04-16,4,0.021022532135248184,128,Iran Klaim Kerugian Akibat Serangan AS-Israel Mencapai US$$270 Miliar
+2026-04-16,5,0.019271664321422577,128,Pertemuan Sjafrie dan Menteri Perang Amerika vs Prabowo dan Putin
+2026-04-17,1,0.02589762583374977,128,Trump Sebut Israel dan Lebanon Sepakat Gencatan Senjata 10 Hari
+2026-04-17,2,0.022209253162145615,128,"Pasokan dari Timur Tengah Terhenti, IEA Sebut Krisis Energi Global Makin Parah"
+2026-04-17,3,0.02088332735002041,128,Peter Magyar Sebut Akan Tangguhkan Siaran Media Publik dan Desak Presiden Hungaria untuk Mundur
+2026-04-17,4,0.01987781748175621,128,Dari Moskow ke Paris: Diplomasi Energi Prabowo di Tengah Tarik-Menarik Kekuatan Global
+2026-04-17,5,0.018874207511544228,128,Trump Sebut Perang Melawan Iran Segera Berakhir
+2026-04-20,1,0.03854259103536606,128,"Klaim Trump Hingga Tanggapan Prancis, Inggris Cs saat Iran Buka Selat Hormuz"
+2026-04-20,2,0.03640279173851013,128,"Iran Perketat Kontrol Hormuz, Trump Tegaskan AS Tak Bisa Diperas"
+2026-04-20,3,0.029098177328705788,128,"Iran Kembali Ketatkan Kendali Selat Hormuz, Ini Pesan Keras Terbaru dari Teheran"
+2026-04-20,4,0.023977432399988174,128,Tentara Prancis Tewas: Siapa Pelaku Penembakan di Lebanon Selatan?
+2026-04-20,5,0.023234136402606964,128,Trump Sebut Israel-Lebanon Sepakat Gencatan Senjata Selama 10 Hari
+2026-04-21,1,0.030020391568541527,119,"Kondisi Terbaru Selat Hormuz, Suasana Makin Keruh karena AS Rebut Kapal Induk Iran"
+2026-04-21,2,0.026710888370871544,119,"AS Cegat dan Sita Kapal Iran, Blokade Trump di Selat Hormuz"
+2026-04-21,3,0.024903912097215652,119,"Citra Satelit Ungkap Ekspansi Militer Israel di Gaza, Proyek New Rafah Mandek"
+2026-04-21,4,0.023224947974085808,119,Iran Tolak Lanjutkan Perundingan Damai dengan AS
+2026-04-21,5,0.022459477186203003,119,"AS-Iran Kembali Tegang, Harga Minyak Global Melonjak"
+2026-04-22,1,0.02393784560263157,128,"Trump Tunda Serangan, Gencatan Senjata dengan Iran Diperpanjang Tanpa Batas Waktu"
+2026-04-22,2,0.02021404728293419,128,OPINI: Ketegangan Hormuz dan Ilusi Transisi
+2026-04-22,3,0.018435737118124962,128,Dewan Perdamaian Trump Dikabarkan Gandeng DP World Bangun Gaza
+2026-04-22,4,0.01837332174181938,128,"Gempa Magnitudo 7,5 Guncang Jepang, Peringatan Tsunami hingga 3 Meter Dikeluarkan"
+2026-04-22,5,0.017954356968402863,128,Zulhas Pastikan Pangan Jemaah Haji RI Tak Terdampak Perang Timur Tengah
+2026-04-23,1,0.03037729300558567,128,"Trump Perpanjang Gencatan Senjata, Iran Serang Kapal di Selat Hormuz"
+2026-04-23,2,0.0225980281829834,128,"RI Dukung Normalisasi Hormuz, Tolak Biaya 'Tol' Karena Bertentangan dengan Freedom of Navigation"
+2026-04-23,3,0.017194410786032677,128,"Indonesia Sulit Jadi Port Hub Global, Ini Biang Keroknya"
+2026-04-23,4,0.016131164506077766,128,"Malam Ini! Puncak Hujan Meteor Lyrid Bisa Disaksikan dari Indonesia, Cek Jadwalnya"
+2026-04-23,5,0.015264524146914482,128,"Tanker Pertamina Belum Lolos dari Selat Hormuz, Menlu Akui Situasi Kian Rumit"
+2026-04-24,1,0.03137148171663284,118,"Perang Iran vs AS-Israel Masih Bergejolak, Luhut Beberkan Skenario Antisipatif ke Prabowo"
+2026-04-24,2,0.02343778684735298,118,"Indonesia Peringkat 2 Dunia Negara Tahan Guncangan Energi, Kalahkan Jepang hingga Korsel"
+2026-04-24,3,0.020214786753058434,118,"Perang Amerika-Iran Kembali Panas, Rupiah Ditutup Loyo ke Rp17.286 per Dolar AS"
+2026-04-24,4,0.01943393610417843,118,"Negosiasi Damai AS-Iran Mandek, Harga Minyak Dunia Mendingin"
+2026-04-24,5,0.01894267275929451,118,"Profil Rudy, Presdir Baru Astra International (ASII) dan Jejak Kariernya"
+2026-04-27,1,0.03302924707531929,128,"Korban Perang AS–Israel vs Iran Capai 5.831 Orang, Puluhan Ribu Terluka"
+2026-04-27,2,0.02237016148865223,128,"Kronologi Penembakan di Acara yang Dihadiri Trump, Ada Petugas Terluka"
+2026-04-27,3,0.022337419912219048,128,Trump Batalkan Utusan ke Pakistan saat Israel Gempur Lebanon.
+2026-04-27,4,0.019087066873908043,128,Penembakan di Acara Trump Terjadi di Lokasi yang Sama dengan Insiden Reagan 1981
+2026-04-27,5,0.018153123557567596,128,"Negosiasi Damai AS-Iran Kembali Dimulai, Trump Kirim Utusan ke Pakistan"
+2026-04-28,1,0.017302967607975006,128,Enam Kapal Tanker Minyak Iran Dipaksa Kembali di Tengah Blokade AS di Selat Hormuz
+2026-04-28,2,0.01718931458890438,128,Putin Janjikan Perdamaian untuk Iran di Tengah Konflik Memanas
+2026-04-28,3,0.015793075785040855,128,1.100 WNI dan Mahasiswa di Timur Tengah Turut jadi Petugas Haji 2026
+2026-04-28,4,0.015216243453323841,128,"Rupiah Ditutup Menguat ke Rp17.211 per Dolar AS, Greenback Loyo"
+2026-04-28,5,0.014667799696326256,128,"Pesawat Jemaah Haji Surabaya dan Batam Alami Kendala, Perbaikan Terus Dilakukan"
+2026-04-29,1,0.02726549282670021,128,"Trump: Iran Berada dalam ""Kondisi Kolaps"", Negosiasi Damai Kembali Buntu"
+2026-04-29,2,0.01884082332253456,128,"Harmoni Antara Katolik–Anglikan, Uskup Agung Canterbury Berdoa Bersama Paus Leo XIV"
+2026-04-29,3,0.017607087269425392,128,Dua Jemaah Haji Indonesia Wafat di Madinah
+2026-04-29,4,0.017426468431949615,128,"Jemaah Haji Diimbau Terapkan Buddy System, Tak Bepergian Sendiri saat di Tanah Suci"
+2026-04-29,5,0.01659783162176609,128,"Total 40.796 Jemaah Haji Indonesia Telah Diberangkatkan, 36.483 Tiba di Madinah"
+2026-04-30,1,0.029352087527513504,122,"Trump Pamer ""No More Mr Nice Guy"", Iran Ancam Serangan Militer Besar"
+2026-04-30,2,0.018556851893663406,122,"Urgent Care Center (UCC), Layanan 'UGD' untuk Jemaah Haji Indonesia"
+2026-04-30,3,0.01813279651105404,122,Kasus Penyiraman Air Keras Andrie Yunus: Kronologi hingga Fakta Sidang di Pengadilan Militer
+2026-04-30,4,0.017230646684765816,122,"Bus Jemaah Haji Indonesia Kecelakaan, Tujuh Jemaah Luka Sudah Tertangani Baik"
+2026-04-30,5,0.016978252679109573,122,"Trump Siapkan Blokade Jangka Panjang Iran, Tekanan Ekonomi Ditingkatkan"
+2026-05-04,1,0.025158312171697617,128,"Tujuh Jemaah Haji Indonesia Wafat, Mayoritas karena Serangan Jantung dan Radang Paru-Paru"
+2026-05-04,2,0.02346012182533741,128,"Kisah Haru Jemaah Haji 84 Tahun, Berangkat Sendiri karena Istri Tak Lolos Syarat Kesehatan"
+2026-05-04,3,0.01932719722390175,128,Jemaah Haji Khusus Indonesia Mulai Tiba di Tanah Suci Madinah
+2026-05-04,4,0.018403539434075356,128,"Jasa Pendorong Kursi Roda Resmi di Masjidil Haram, Ini Ciri-ciri dan Tarifnya"
+2026-05-04,5,0.015657592564821243,128,"Nasdaq dan S&P 500 Cetak Rekor Baru Jumat (1/5), Wall Street Perpanjang Reli"
+2026-05-05,1,0.034857120364904404,128,"Buka Selat Hormuz: AS Tenggelamkan Kapal Iran, Tembak Jatuh Rudal dan Drone"
+2026-05-05,2,0.03118029236793518,128,Pemimpin Eropa Gelar KTT di Armenia di Tengah Tekanan Rusia dan AS
+2026-05-05,3,0.02013281174004078,128,Trump: AS Akan Bantu Bebaskan Kapal yang Terjebak di Selat Hormuz
+2026-05-05,4,0.0195124763995409,128,"Jemaah Haji Tertua dari Indonesia Tiba di Madinah, Sehat dan Semangat Beribadah"
+2026-05-05,5,0.01909548044204712,128,"Jepang Borong Minyak Rusia, Impor Perdana Sejak Konflik Timur Tengah"
+2026-05-06,1,0.018177712336182594,128,"Prediksi IHSG Menguat Terbatas Hari Ini (6/5), Cermati Saham RAJA, PADI, GZCO"
+2026-05-06,2,0.01618921384215355,128,AS Klaim Gencatan Senjata dengan Iran Masih Berlaku di Tengah Serangan di UEA
+2026-05-06,3,0.01599653623998165,128,Rupiah Hari Ini (6/5) Dibuka Menguat ke Level Rp17.377 per Dolar AS
+2026-05-06,4,0.015692967921495438,128,"Jemaah Haji Lansia Tak Perlu Paksakan Diri ke Masjidilharam, Salat di Hotel Tak Kurangi Pahala"
+2026-05-06,5,0.015365037135779858,128,"Dolar AS Stabil Selasa (5/5), Pasar Waspadai Eskalasi Konflik Timur Tengah"
+2026-05-07,1,0.019385453313589096,128,Mengenal Project Freedom Trump di Selat Hormuz
+2026-05-07,2,0.017541948705911636,128,Trump Klaim Perang Iran Akan Segera Berakhir!
+2026-05-07,3,0.017497362568974495,128,"Kemenhaj Imbau Jemaah Haji Jaga Kesehatan, Suhu Arab Saudi Capai 40 Derajat"
+2026-05-07,4,0.0172855444252491,128,Densus 88 Ringkus 8 Tersangka Jaringan Teroris JAD di Sulteng
+2026-05-07,5,0.01723666302859783,128,"Harga Emas Melonjak, Didukung Pelemahan Dolar dan Harapan Perdamaian Timur Tengah"
+2026-05-08,1,0.023375023156404495,124,"Menlu AS Bakal Bertemu Paus Leo, Sementara Trump Terus Menyerang Paus"
+2026-05-08,2,0.01871125027537346,124,Iran Peringati AS untuk Menjauh dari Selat Hormuz
+2026-05-08,3,0.017927665263414383,124,"IHSG Dibuka Menguat Tembus 7.178, Saham BREN, DSSA hingga TLKM Melesat"
+2026-05-08,4,0.01788482628762722,124,"Trump Yakin Perang dengan Iran Segera Berakhir, AS Siapkan 14 Poin Proposal Nuklir"
+2026-05-08,5,0.017834724858403206,124,"Di KTT BIMP-EAGA, Prabowo Ungkap Masalah Mendesak Ketahanan Energi Imbas Perang Timur Tengah"
+2026-05-11,1,0.02674121782183647,128,"Putra Mahkota Saudi Marah, Trump Batalkan Misi Militer di Selat Hormuz"
+2026-05-11,2,0.024555349722504616,128,Ngeri! Begini Ancaman Terbaru Donald Trump untuk Iran
+2026-05-11,3,0.02337554283440113,128,Bantahan Arab Saudi yang Disebut Cabut Pembatasan Akses Militer AS
+2026-05-11,4,0.021292587742209435,128,"Trump Tolak Proposal Balasan Iran, Selat Hormuz Kembali Panas"
+2026-05-11,5,0.018051663413643837,128,"Innalillahi, 20 Jemaah Haji Indonesia Wafat di Arab Saudi, 1 Meninggal sebelum Terbang"
+2026-05-12,1,0.03067263960838318,128,"Trump Tolak Proposal Damai Iran, Sebut Gencatan Senjata di Titik Terlemah"
+2026-05-12,2,0.027270246297121048,128,"Iran Tinggalkan ""Strategic Patience"", Siapkan Strategi Baru Lawan AS–Israel"
+2026-05-12,3,0.024609806016087532,128,"Iran dan AS Gagal Capai Kesepakatan, Harga Minyak Langsung Melonjak"
+2026-05-12,4,0.020608004182577133,128,Rupiah Dibuka Melemah Sentuh Rp17.498 Tertekan Ketidakpastian Perdamaian AS-Iran
+2026-05-12,5,0.0188168715685606,128,OPINI: Membangun Stabilitas Tanpa Kepercayaan: Makna KTT Trump-Xi
+2026-05-13,1,0.01854727789759636,128,Menlu Sugiono: Indonesia Tetap Berangkatkan 780 Pasukan Perdamaian ke Lebanon
+2026-05-13,2,0.01852427050471306,128,"Dua Jemaah Haji Ditangkap akibat Rekam Perempuan Tanpa Izin, KJRI Ingatkan untuk Hormati Privasi"
+2026-05-13,3,0.016795407980680466,128,"IHSG Ditutup Turun ke 6.858, Saham BREN, BYAN dan ASII di Zona Merah"
+2026-05-13,4,0.016340026631951332,128,Iran Mengizinkan Kapal Agios Fanourios I Lewat Selat Hormuz
+2026-05-13,5,0.01573827490210533,128,"Menlu Singapura Soroti Risiko Selat Hormuz, Sebut Asean Bisa Jadi Contoh Dunia"
+2026-05-18,1,0.03112974762916565,128,"Trump: Xi Setuju Iran Harus Buka Selat Hormuz, Tetapi Tidak Ada Tanda Ikut Campur"
+2026-05-18,2,0.027605349197983742,128,"Trump Klaim Xi Sepakat Iran Harus Buka Selat Hormuz, China Minta Perang Diakhiri"
+2026-05-18,3,0.01948797143995762,128,Italia Minta Selat Hormuz Dibuka Lagi Tanpa Pungutan
+2026-05-18,4,0.017025437206029892,128,Prabowo Sebut Tragedi Marsinah Tak Seharusnya Terjadi di Negara Berlandaskan Pancasila
+2026-05-18,5,0.017009969800710678,128,Kenalan dengan Rudal Murah Milik Inggris untuk Tangkal Drone Shahed Iran
+2026-05-19,1,0.033088114112615585,128,"Misi Kemanusiaan ke Gaza Dicegat Militer Israel, Jurnalis RI Dilaporkan Hilang Kontak"
+2026-05-19,2,0.03120042383670807,128,Iran Minta BRICS Bersatu Mengecam Serangan AS-Israel
+2026-05-19,3,0.023512011393904686,128,Jurnalis Republika Diculik Tentara IDF saat Misi Kemanusiaan ke Gaza
+2026-05-19,4,0.023286286741495132,128,"Kemlu RI Kecam Militer Israel yang Tangkap Kapal GSF, Desak Bebaskan Seluruh Awak"
+2026-05-19,5,0.018503505736589432,128,Serangan Drone Ukraina Tewaskan Lima Orang di Rusia
+2026-05-20,1,0.03112359344959259,128,Menkomdigi Kecam Militer Israel Tahan Jurnalis Indonesia dalam Misi Kemanusiaan Gaza
+2026-05-20,2,0.030425269156694412,128,Jurnalis Republika Diculik Tentara Israel saat Misi Kemanusiaan ke Gaza
+2026-05-20,3,0.02948138676583767,128,Dewan Pers Kecam Penangkapan Tiga Jurnalis Indonesia oleh Militer Israel
+2026-05-20,4,0.023993683978915215,128,Pemerintah Kutuk Keras Israel usai 5 WNI dalam Misi Flotilla Gaza Ditangkap
+2026-05-20,5,0.022187596186995506,128,Menhan Beberkan Alasan Indonesia Gabung Board of Peace yang Dibentuk Trump
+2026-05-21,1,0.025485429912805557,128,Krisis Gaza Seret Indonesia ke Tekanan Diplomatik Baru
+2026-05-21,2,0.022585656493902206,128,"Rusia dan China Kritik Proyek Golden Dome AS, Dinilai Ancam Stabilitas Dunia"
+2026-05-21,3,0.018746042624115944,128,Kronologi Jemaah Haji Indonesia Hilang di Makkah dan Proses Pencarian Muhammad Firdaus Ahlan
+2026-05-21,4,0.016112279146909714,128,"AS Perpanjang Penundaan Sanksi Minyak Rusia, Uni Eropa Protes"
+2026-05-21,5,0.01596684940159321,128,"Petugas Haji Dapat Apresiasi Kerajaan Arab Saudi, Kemenhaj Raih Penghargaan"
+2026-05-22,1,0.018729418516159058,128,"Armada Global Sumud Flotilla Ditahan, Indonesia Minta Aktivis WNI Segera Dibebaskan"
+2026-05-22,2,0.016638513654470444,128,9 WNI Peserta GSF 2.0 yang Diculik Militer Israel Telah Tiba di Turki
+2026-05-22,3,0.01617352105677128,128,"Seluruh Relawan GSF Termasuk 9 WNI Bebas dari Penjara Israel, Mulai Dipindah ke Turki"
+2026-05-22,4,0.015660444274544716,128,"Menanti Pemulangan 9 WNI Relawan Gaza, Akan Dideportasi via Turki"
+2026-05-22,5,0.01527676172554493,128,"IHSG Ambruk 8 Hari Berturut-turut, Cek Saham yang Banyak Dijual Asing, Kamis (21/5)"
+2026-05-25,1,0.03460719436407089,128,"Trump Klaim Telah Teken MoU dengan Iran Buka Selat Hormuz, Teheran Langsung Bantah"
+2026-05-25,2,0.03222831338644028,128,"Israel Gempur Pos Polisi di Gaza Utara, Lima Orang Tewas"
+2026-05-25,3,0.02431388944387436,128,"Bertemu Putin, Xi Jinping Sebut Menghentikan Konflik di Timur Tengah Adalah Keharusan"
+2026-05-25,4,0.02401798777282238,128,"Trump Ungkap Kesepakatan dengan Iran, Sinyal Perang Segera Berakhir?"
+2026-05-25,5,0.021792080253362656,128,"Sambut Kepulangan 9 WNI Relawan Gaza, Menlu Kecam Militer Israel"
+2026-05-26,1,0.02066706493496895,128,Perjalanan 9 WNI dari Penahanan Militer Israel sampai Tiba di Tanah Air
+2026-05-26,2,0.01978209987282753,128,"Jemaah Haji Indonesia Bergerak ke Arafah, Puncak Haji Resmi Dimulai"
+2026-05-26,3,0.018312150612473488,128,"Ini Cara Mendinginkan Tubuh saat di Arafah, Jemaah Haji Wajib Tahu"
+2026-05-26,4,0.017263615503907204,128,Harga Minyak Dunia Turun Usai Trump Beri Kabar Baik soal Negosiasi dengan Iran
+2026-05-26,5,0.016922617331147194,128,Cuaca Makkah Hari Ini (25/5) Bisa Capai 43 Derajat saat Puncak Haji Dimulai
+2026-05-29,1,0.029318153858184814,128,"Trump: Iran dan Oman Tak Akan Mengendalikan Selat Hormuz, Kesepakatan Sulit Tercapai"
+2026-05-29,2,0.024070918560028076,128,"Prabowo Bertemu Macron, Singgung Stabilitas Timur Tengah dan Kemerdekaan Palestina"
+2026-05-29,3,0.02167266234755516,128,Serangan Israel jelang Iduladha ke Gaza Tewaskan Pimpinan Hamas
+2026-05-29,4,0.01987086981534958,128,"Bursa Australia Ditutup Turun ke Level Terendah Sepekan Kamis (28/5), AS-Iran Memanas"
+2026-05-29,5,0.019561458379030228,128,Korsel Sebut Iran Jadi Biang Kerok Kapal HMM Namu Porak-poranda di Selat Hormuz
+2026-06-02,1,0.029699036851525307,128,Iran: Sikap Kontradiktif AS dan Serangan Israel Terhadap Lebanon Hambat Diplomasi
+2026-06-02,2,0.02129807509481907,128,"Seskab Teddy Tegaskan Diplomasi Prabowo Bangun Koneksi dengan Dunia, Bukan Seremonial"
+2026-06-02,3,0.021028755232691765,128,"Prancis Cegat Kapal Tanker Minyak Terkait Rusia di Samudra Atlantik, Apa Alasannya?"
+2026-06-02,4,0.020935747772455215,128,"Prabowo Terima Kunjungan Wakil Perdana Menteri Qatar Sheikh Saoud, Bahas Apa?"
+2026-06-02,5,0.020180026069283485,128,"Jemaah Haji Mulai Pulang ke Indonesia, 19 Kloter Diberangkatkan dari Jeddah"
+2026-06-03,1,0.024818984791636467,128,Trump Semprot Netanyahu Imbas Serangan Israel ke Lebanon
+2026-06-03,2,0.022104432806372643,128,"135.000 Jemaah Haji Indonesia Bayar Dam lewat Adahi, Daging Turut Disalurkan ke Palestina"
+2026-06-03,3,0.016154054552316666,128,"Prakiraan Cuaca Makkah Hari Ini (2/6) Capai 41 Derajat, Jemaah Haji Harus Jaga Kondisi Fisik"
+2026-06-03,4,0.015450862236320972,128,Satgas Haji Catat 550 Korban Haji Ilegal dengan Kerugian Rp21 Miliar
+2026-06-03,5,0.015167387202382088,128,"Harga Minyak Ditutup Melonjak 4%: Pembicaraan AS-Iran Terhenti, Risiko Blokade Naik"
+2026-06-04,1,0.02227560058236122,128,"Prabowo Terima Menlu Türki Hakan Fidan di Hambalang, Bahas Palestina hingga Stabilitas Timur Tengah"
+2026-06-04,2,0.020893920212984085,128,Kemenhaj Tegur Garuda Indonesia (GIAA) karena Pesawat Haji Delay Berjam-jam di Jeddah
+2026-06-04,3,0.01861315406858921,128,"Cuaca Makkah Hari Ini (3/6) Capai 41 Derajat, Jemaah Haji Harus Rutin Minum Air tiap Jam"
+2026-06-04,4,0.017827941104769707,128,Jemaah Haji Meninggal Dunia Turun Drastis Berkat Pengetatan Istitha'ah Kesehatan
+2026-06-04,5,0.01638561487197876,128,Kemenpar Usul Bebas Visa untuk 8 Negara: Ada Jepang hingga India
+2026-06-08,1,0.035733602941036224,128,"AS Serang Fasilitas Radar Iran, Situasi di Selat Hormuz Semakin Tegang"
+2026-06-08,2,0.024935591965913773,128,Konflik Teluk Memanas: AS Kembali Serang Iran Saat Negosiasi Damai
+2026-06-08,3,0.024431366473436356,128,Israel Serang Beirut Usai Gencatan Senjata
+2026-06-08,4,0.02102081850171089,128,Presiden Korsel Calonkan Perdana Menterinya
+2026-06-08,5,0.019194433465600014,128,"Kasus Haji Ilegal dan Badal Haji Tidak Resmi, 24 WNI Ditangkap Polisi Arab Saudi"
+2026-06-09,1,0.02963610365986824,128,"Kendalikan Diplomasi Timur Tengah, Trump ke Netanyahu: Saya yang Menentukan"
+2026-06-09,2,0.02322593331336975,128,Kedubes Iran Wanti-wanti Israel Usai Langgar Gencatan Senjata Lagi
+2026-06-09,3,0.018338145688176155,128,"Bursa Asia Membara di Awal Pekan: Kospi Korsel Anjlok 8,4% Akibat Serangan Rudal Iran"
+2026-06-09,4,0.017848078161478043,128,"Prabowo Terima Kredensial 8 Duta Besar Negara Sahabat, dari Filipina hingga Palestina"
+2026-06-09,5,0.016227085143327713,128,"Istana Bantah Isu Chatib Basri Masuk Pemerintahan, Tegaskan Tak Ada Rencana Reshuffle"
+2026-06-10,1,0.022733772173523903,128,"Jemaah Kelelahan hingga Sakit ISPA usai Puncak Haji, Harus Pulihkan Kondisi saat di Madinah"
+2026-06-10,2,0.019966769963502884,128,"Daftar Kasus Badal Haji Ilegal, Dam Bermasalah, hingga Penyelundupan Jemaah saat Haji 2026"
+2026-06-10,3,0.01751914992928505,128,Dasco Ungkap Isi Pertemuan Chatib Basri dan Luhut dengan Prabowo di Istana
+2026-06-10,4,0.017434213310480118,128,"Seskab Teddy: Prabowo Terima Pimpinan TNI, Bahas Sinergi Pertahanan dan Percepat Pembangunan"
+2026-06-10,5,0.016560416668653488,128,"Prabowo Terima Kredensial 9 Duta Besar Negara Sahabat, dari Korea Utara hingga Qatar"
+2026-06-11,1,0.024869605898857117,128,"Helikopter Apache Ditembak Jatuh, Amerika Serikat Lancarkan Serangan Balasan ke Iran"
+2026-06-11,2,0.023597851395606995,128,"Harga Minyak Dunia Menguat Setelah Trump Ancam Iran, Pasar Khawatir Gangguan Pasokan"
+2026-06-11,3,0.01706601120531559,128,"Wall Street Melemah, Saham Teknologi Tertekan di Tengah Memanasnya AS-Iran"
+2026-06-11,4,0.016596129164099693,128,"Nilai Tak Kooperatif, Hakim Militer Tuding Andrie Yunus Rendahkan Wibawa Pengadilan"
+2026-06-11,5,0.015802398324012756,128,"Harga BBM Melonjak, Ini Daftar 10 Negara dengan Harga BBM Tertinggi di Dunia"
+2026-06-12,1,0.02727814018726349,128,"Rupiah Ditutup Melemah ke Rp17.985 per Dolar AS, Tertekan Konflik Timur Tengah"
+2026-06-12,2,0.02369321882724762,128,"Rupiah Dibuka Menguat ke Rp17.935, Investor Pantau Demo Jakarta & Arah Timur Tengah"
+2026-06-12,3,0.021027464419603348,128,"IHSG Ditutup Melemah ke 5.886, Saham BREN, BBRI, dan BMRI Jadi Penekan"
+2026-06-12,4,0.019206387922167778,128,"Eskalasi Geopolitik Memanas, Rupiah Melemah ke Rp 17.989 per Dolar AS, Kamis (11/6)"
+2026-06-12,5,0.01863415353000164,128,Seskab Teddy Ungkap Pertemuan Prabowo dan Jusuf Kalla di Istana
+2026-06-15,1,0.028668290004134178,128,"AS dan Iran Sepakat Berdamai, Trump Cabut Blokade Selat Hormuz"
+2026-06-15,2,0.02757616899907589,128,"Iran Umumkan Jadwal Prosesi Pemakaman Ali Khamenei, Berlangsung 4-9 Juli 2026"
+2026-06-15,3,0.023956814780831337,128,"Dimediasi Qatar, Trump Klaim Kesepakatan Damai AS-Iran Bisa Diteken Hari Ini"
+2026-06-15,4,0.020825956016778946,128,"Bursa Asia Melonjak, Didukung Sentimen Kesepakatan Damai Sementara AS dan Iran"
+2026-06-15,5,0.020382720977067947,128,"Rupiah Dibuka Menguat ke Rp17.774, Sentimen Damai AS-Iran Jadi Katalis"
+2026-06-17,1,0.03201314061880112,128,"Presiden Palestina Telepon Prabowo, Minta RI Dukung Perjuangan Rakyat Gaza"
+2026-06-17,2,0.02929469384253025,128,Kesepakatan Damai AS-Iran: Trump Jamin Iran Tak Akan Punya Senjata Nuklir
+2026-06-17,3,0.026222610846161842,128,"Trump Beri Penjelasan ke G7 soal Kesepakatan AS–Iran, Para Pemimpin Sambut Baik"
+2026-06-17,4,0.023998023942112923,128,"Pemimpin Dunia Sambut Kesepakatan Damai AS-Iran, Harapkan Stabilitas Ekonomi Global"
+2026-06-17,5,0.01979265920817852,128,"Iran-AS Damai, Wakil Presiden JD Vance Optimistis Selat Hormuz Tetap Bebas Tarif"
+2026-06-18,1,0.038878556340932846,128,"Trump Bahas Hizbullah dengan Presiden Suriah, Kritik Serangan Israel di Lebanon"
+2026-06-18,2,0.032660551369190216,128,Serangan Israel ke Lebanon Berlanjut Meski Ada Kesepakatan Damai AS-Iran
+2026-06-18,3,0.025476321578025818,128,"Emas Dunia Bangkit dari Koreksi Kamis (18/6), Mencerna Kesepakatan Damai AS dan Iran"
+2026-06-18,4,0.021970396861433983,128,"AS dan Iran Teken Kesepakatan Gencatan Senjata, Trump Tetap Ancam Serangan Baru"
+2026-06-18,5,0.020721297711133957,128,"Kesepakatan AS-Iran Belum Final, Trump Ancam Kembali Bombardir Teheran"
+2026-06-22,1,0.032376181334257126,128,Al Jazeera Kutuk dan Kecam Israel Usai Bunuh Jurnalisnya di Gaza
+2026-06-22,2,0.027148772031068802,128,"Setelah Iran, Trump Alihkan Fokus ke Program Nuklir Korea Utara"
+2026-06-22,3,0.026879271492362022,128,Iran Ancam Tutup Selat Hormuz Jika Israel Tak Hentikan Serangan ke Lebanon
+2026-06-22,4,0.024772565811872482,128,"AS Dituding Lakukan Pelanggaran Gencatan Senjata, Iran Ancam Tutup Selat Hormuz"
+2026-06-22,5,0.022541340440511703,128,Trump Sebut Keir Starmer Akan Mundur dari Jabatan Perdana Menteri Inggris
+2026-06-23,1,0.019393611699342728,128,"Harapan Damai AS-Iran Topang Dolar AS, Pound Tertekan Ketidakpastian Politik Inggris"
+2026-06-23,2,0.018223244696855545,128,"AS dan Iran Capai Kemajuan Awal, Namun Ketegangan Tetap Membayangi"
+2026-06-23,3,0.017362305894494057,128,"Harga Emas Bangkit Setelah Sempat Tertekan, Pasar Cermati Kemajuan Dialog AS-Iran"
+2026-06-23,4,0.015807412564754486,128,"Keir Starmer Mundur, King of the North Andy Burnham Incar Kursi PM Inggris"
+2026-06-23,5,0.01574523188173771,128,"Rupiah Hari Ini, Senin (22/6) Ditutup Melemah ke Rp17.843, Dolar AS Perkasa"
+2026-06-24,1,0.027866940945386887,128,Mantan PM Akui Israel Pernah Menyelundupkan Sistem Starlink ke Iran
+2026-06-24,2,0.01872529461979866,128,"AS Longgarkan Sanksi Iran 60 Hari, Trump Peringatkan Teheran Patuhi Kesepakatan"
+2026-06-24,3,0.017024803906679153,128,"Jadwal Puasa Tasua dan Asyura, Lengkap dengan Niat dan Tujuannya"
+2026-06-24,4,0.015833953395485878,128,Rupiah Dibuka Lesu ke Rp17.928 saat Dolar AS Melaju
+2026-06-24,5,0.014053108170628548,128,"Aktivitas Kapal di Selat Hormuz Meningkat, Sinyal Pemulihan Perdagangan Energi Teluk"
+2026-06-25,1,0.0308555718511343,128,Trump: Iran Pastikan Tak Akan Kenakan Tarif bagi Kapal yang Melintas Selat Hormuz
+2026-06-25,2,0.02072656713426113,128,"Trump Ajukan Dana Tambahan US$ 87,6 Miliar ke Kongres, Mayoritas untuk Perang Iran"
+2026-06-25,3,0.020346034318208694,128,"Fenomena Panas ""Omega Block"" di Prancis Makan Puluhan Korban"
+2026-06-25,4,0.017502035945653915,128,Mayoritas Bursa Asia Menguat pada Kamis (25/6) Pagi
+2026-06-25,5,0.016515465453267097,128,"Prabowo: B50 Diluncurkan Juli 2026, RI Tak Lagi Impor Solar"
+2026-06-26,1,0.020100008696317673,128,"Mayoritas Bursa Asia Melemah pada Jumat (26/6) Pagi, Mengekor Penurunan Wall Street"
+2026-06-26,2,0.01797742210328579,128,"Voting Logo HUT RI ke-81 Di Logohutri.istanapresiden.go.id, 300 Orang Dapat Hadiah"
+2026-06-26,3,0.01787703111767769,128,DPR Usul Pemerintah Fokus Penindakan Rokok Ilegal
+2026-06-26,4,0.017050806432962418,128,"Korban Gempa Venezuela Bertambah Jadi 188 Jiwa, 1.520 Orang Luka"
+2026-06-26,5,0.015624098479747772,128,"Harga Minyak Turun ke Level Sebelum Perang Iran, Lalu Lintas Selat Hormuz Mulai Pulih"
+2026-06-29,1,0.022754089906811714,128,"Bursa Australia Menguat Senin (29/6) Dipicu Saham Tambang, Ketegangan AS-Iran Mereda"
+2026-06-29,2,0.020997842773795128,128,AS Balas Serang Iran Targetkan Infrastruktur Militer
+2026-06-29,3,0.020542500540614128,128,Korea Selatan dan Jepang Tegaskan Komitmen Denuklirisasi di Semenanjung Korea
+2026-06-29,4,0.019565358757972717,128,Indonesia Sampaikan Belasungkawa atas Gempa Dahsyat di Venezuela
+2026-06-29,5,0.01874309405684471,128,"IHSG Melemah pada Senin (29/6) Pagi, ESSA, PGAS, AKRA Top Losers LQ45"
+2026-06-30,1,0.019755881279706955,128,"Rupiah Ditutup Menguat ke Rp 17.852 per Dolar Senin (29/6), Reli Berlanjut Tiga Hari"
+2026-06-30,2,0.01705634966492653,128,"IHSG Ambruk ke 5.820, Cermati Saham yang Banyak Dikoleksi Asing, Senin (29/6)"
+2026-06-30,3,0.01702282205224037,128,"Wall Street Menguat Usai AS-Iran Reda, Saham Comcast Melonjak Hampir 10%"
+2026-06-30,4,0.01690373569726944,128,"Bursa Australia Ditutup Naik Senin (29/6), Gencatan Senjata AS-Iran Bikin Lega"
+2026-06-30,5,0.016897113993763924,128,"Istana Tetapkan Logo HUT ke-81 RI, Karya Desainer Padang Jadi Pemenang"
+2026-07-01,1,0.022861581295728683,128,"Konflik Iran Dongkrak Harga BBM, Trump Desak Peritel AS Segera Turunkan Harga"
+2026-07-01,2,0.020177271217107773,128,Momen Prabowo dan Jokowi Saling Hormat di HUT Ke-80 Bhayangkara
+2026-07-01,3,0.01860971376299858,128,"Gelombang Panas Eropa Tewaskan Lebih dari 1.000 Orang, Suhu Tembus Rekor"
+2026-07-01,4,0.01824818179011345,128,"Jokowi Sudah Tiba di Jakarta, Diagendakan Hadiri Peringatan HUT Ke-80 Bhayangkara"
+2026-07-01,5,0.017602883279323578,128,"Dolar AS Menguat Rabu (1/7), Yen Jepang Terpuruk ke Level Terendah dalam 40 Tahun"
+2026-07-02,1,0.017867928370833397,128,"Bursa Asia Melemah Usai Reli AI Rabu (1/7), Rupiah Dekati Rp 18.000 per Dolar AS"
+2026-07-02,2,0.016820939257740974,128,"Rupiah Ditutup Melemah, Sentuh Rp17.950 per Dolar AS"
+2026-07-02,3,0.016498606652021408,128,"Mendarat di Jakarta, Presiden Belarus Disambut Menhan Sjafrie"
+2026-07-02,4,0.01613578386604786,128,"Babak Baru Polemik Hotel Sultan, Keturunan Raja Solo VIII Klaim Pemilik Lahan"
+2026-07-02,5,0.015872325748205185,128,Volkswagen dan Bosch Akhiri Proyek Pengembangan Mobil Otonom Bersama
+2026-07-03,1,0.032245196402072906,128,"Rusia Gempur Kyiv dengan Ratusan Drone dan Puluhan Rudal, Sedikitnya 18 Tewas"
+2026-07-03,2,0.026793276891112328,128,Prancis Berjuang Padamkan Kebakaran Hutan Usai Gelombang Panas Ekstrem
+2026-07-03,3,0.016833048313856125,128,"RUU PFII Dikebut Rampung Juli, Prabowo Mau Umumkan dalam Pidato 17 Agustus"
+2026-07-03,4,0.015411995351314545,128,"IHSG Kembali Menguat ke 5.744, Intip Saham Net Buy Terbesar Asing, Kamis (2/7)"
+2026-07-03,5,0.014874296262860298,128,"Harga Minyak Naik Tipis Jumat (3/7), Perdamaian AS-Iran Masih Jadi Penentu Arah Pasar"
+2026-07-06,1,0.026862848550081253,128,"Iran Gelar Pemakaman Akbar Ali Khamenei, Puluhan Delegasi Asing Hadir"
+2026-07-06,2,0.01809648796916008,128,"Rusia Serang Kereta Api Ukraina, Lebih dari 200 Lokomotif Rusak Sepanjang 2026"
+2026-07-06,3,0.01695462502539158,128,"Serangan Drone Ukraina Guncang St. Petersburg, Infrastruktur Minyak Disasar"
+2026-07-06,4,0.015862274914979935,128,"Ancaman China Meningkat, Taiwan Hidupkan Lagi Pendidikan Antikomunis di Militer"
+2026-07-06,5,0.015448952093720436,128,"Trump Pidato di Kemerdekaan AS, Tegaskan Agenda Politik dan Nasionalisme"
+2026-07-07,1,0.0241827555000782,128,Menlu Sugiono dan Ketua MPR Akan Hadiri Pemakaman Ali Khamenei di Iran
+2026-07-07,2,0.018620293587446213,128,"Iran Jadikan Selat Hormuz Kartu Tawar Baru, Risiko Pasar Energi Global Meningkat"
+2026-07-07,3,0.017672386020421982,128,"Modi Temui Prabowo, Indonesia-India Bahas Kerja Sama Pertahanan hingga Pangan"
+2026-07-07,4,0.017338354140520096,128,Intip Ragam Kerja Sama RI-India di Tengah Kunjungan PM Modi ke Jakarta
+2026-07-07,5,0.01659335196018219,128,"Disambut Prabowo, PM India Narenda Modi Tiba di Jakarta"
+2026-07-08,1,0.03561659902334213,128,"Dua Kapal Diserang di Selat Hormuz, Iran Tolak Dialog Jika Trump Terus Mengancam"
+2026-07-08,2,0.024879399687051773,128,"AS Gempur Sistem Pertahanan Iran, Ketegangan di Selat Hormuz Kian Memanas"
+2026-07-08,3,0.0237850584089756,128,Modi Dukung Sentralitas Asean dan Solusi Dua Negara untuk Palestina
+2026-07-08,4,0.021821174770593643,128,PM India Narendra Modi: 25 Tahun ke Depan Hubungan RI-India akan Menjadi Masa yang Penting
+2026-07-08,5,0.018729407340288162,128,Prabowo Apresiasi Dukungan India atas Keanggotaan RI di BRICS
+2026-07-09,1,0.031217027455568314,128,"Trump Sebut Kesepakatan Iran Berakhir, Militer AS Kembali Gempur Iran"
+2026-07-09,2,0.028189916163682938,128,Teka-teki Senjata Rahasia Iran yang Bikin Netanyahu Gemetaran
+2026-07-09,3,0.024122262373566628,128,"Hadiri Pemakaman Ali Khamenei, Ketua MPR Muzani dan Delegasi RI Bakal Terbang ke Iran Besok"
+2026-07-09,4,0.023022685199975967,128,"Harga Emas Dunia Turun ke US$ 4.066 Kamis (9/7), di Tengah Memanasnya Konflik AS-Iran"
+2026-07-09,5,0.01774517260491848,128,"IHSG Turun ke 5.863 Awal Perdagangan Kamis (9/7) Pagi, Bursa Asia Justru Menghijau"
+2026-07-10,1,0.02505667135119438,128,"AS Gempur 90 Target Militer Iran, Teheran Balas Serang Pangkalan AS di Timur Tengah"
+2026-07-10,2,0.024403125047683716,128,"Khamenei Dimakamkan di Mashhad, Pemimpin Tertinggi Baru Iran Belum Tampil ke Publik"
+2026-07-10,3,0.022498764097690582,128,Iran Klaim Proyektil AS Menghantam Area Sekitar Pembangkit Nuklir Bushehr
+2026-07-10,4,0.020158912986516953,128,"Presiden Prabowo Kaget, Tokoh Dunia Bicarakan Indonesia Karena Tak Naikkan Harga BBM"
+2026-07-10,5,0.01766294054687023,128,"AS Luncurkan Serangan Baru ke Iran, Ketegangan Selat Hormuz Kembali Memanas"
+2026-07-13,1,0.03281806781888008,128,Update Kondisi Selat Hormuz setelah AS dan Iran Saling Serang
+2026-07-13,2,0.029750416055321693,128,"Iran Tutup Selat Hormuz, AS Balas dengan Gelombang Serangan Baru"
+2026-07-13,3,0.023402363061904907,128,Angkatan Laut Iran Kembali Tutup Selat Hormuz
+2026-07-13,4,0.022800050675868988,128,"Konflik Dengan AS Kembali Panas, Iran Kembali Tutup Selat Hormuz"
+2026-07-13,5,0.02134895510971546,128,Menlu Sugiono Tiba di Iran: RI Delegasi Pertama Beri Penghormatan di Makam Ali Khamenei
+2026-07-14,1,0.03648326173424721,128,Perang AS-Iran Makin Membara: Rudal dan Drone Hantam Fasilitas Militer di Teluk
+2026-07-14,2,0.02319382131099701,128,"Ngeri, Rusia Dilaporkan Mulai Cawe-cawe Konflik AS, Iran, dan Selat Hormuz"
+2026-07-14,3,0.022010438144207,128,China Tegaskan Amerika dan Iran Harus Jaga Keamanan Selat Hormuz
+2026-07-14,4,0.021519726142287254,128,"Konflik AS-Iran Memanas, Perebutan Selat Hormuz Guncang Pasar Minyak Dunia"
+2026-07-14,5,0.020057877525687218,128,"AS-Iran Kembali Saling Serang, Harga Minyak Dunia Menjulang"
+2026-07-15,1,0.024998614564538002,128,Iran dan Amerika Saling Serang di Selat Hormuz
+2026-07-15,2,0.020477691665291786,128,"AS Kembali Blokade Pelabuhan Iran, Trump Siapkan Serangan ke Pembangkit Listrik"
+2026-07-15,3,0.01808745786547661,128,"Hubungan Polri, Kejaksaan, dan TNI di Tengah Riuh Kasus Febrie Adriansyah"
+2026-07-15,4,0.017605751752853394,128,"Harga Minyak Naik, Konflik AS-Iran Memanas dan Ganggu Pasokan Selat Hormuz"
+2026-07-15,5,0.01411361712962389,128,"New York, Negara Bagian AS Pertama yang Berlakukan Moratorium Pusat Data"
+2026-07-16,1,0.023099346086382866,128,"Sampaikan Belasungkawa, Menlu Sugiono Ungkap Peran Sheikh Hamad Jaga Hubungan RI-Qatar"
+2026-07-16,2,0.02035371959209442,128,"Reli Harga Minyak Terus Berlanjut, Seiring Memburuknya Permusuhan di Timur Tengah"
+2026-07-16,3,0.020118508487939835,128,"Rupiah Ditutup Menguat ke Rp18.068 per Dolar AS, Waspada Perang Iran-AS"
+2026-07-16,4,0.018868666142225266,128,"AS Luncurkan Gelombang Baru Serangan ke Iran, Ancaman Jalur Energi Global Meningkat"
+2026-07-16,5,0.018384194001555443,128,"Rupiah Ditutup Level Rp18.068 per Dolar AS, Waspadai Perang Iran-AS"
+2026-07-17,1,0.025430303066968918,128,Iran Tegaskan Selat Hormuz Tetap Ditutup hingga AS Terima Persyaratan
+2026-07-17,2,0.017511364072561264,128,"Ada Ledakan di Gudang Amunisi Madiun: 1 Prajurit Tewas, 6 Luka-luka"
+2026-07-17,3,0.016010615974664688,128,"Update Perang Rusia vs Ukraina, Cobaan Terbaru Vladimir Putin"
+2026-07-17,4,0.015252383425831795,128,Serangan Terbaru AS ke Iran Berakhir Mengerikan!
+2026-07-17,5,0.015034575946629047,128,"Prabowo: Indonesia Terbuka bagi Investor, tetapi Tak Bisa Lagi Dipandang Sebelah Mata"
+2026-07-20,1,0.02663731947541237,128,Iran Tangguhkan Perjanjian Damai karena AS Langgar Komitmen
+2026-07-20,2,0.025063136592507362,128,"Anwar Ibrahim Perintahkan Deportasi Warga Israel dari Malaysia, Ini Alasannya"
+2026-07-20,3,0.020921241492033005,128,"Gempa M 5,5 Guncang Peru, Lima Orang Tewas dan 20 Terluka"
+2026-07-20,4,0.019062047824263573,128,"Perang AS-Iran Meluas ke Bahrain & Suriah, Harga Minyak Dunia Membara"
+2026-07-20,5,0.016963761299848557,128,Presiden Prabowo Usul Anggaran TNI dan Polri Dikurangi
+2026-07-21,1,0.022328902035951614,128,Polri Ungkap Buronan Interpol Asal Palestina Punya Tiga Paspor
+2026-07-21,2,0.020445287227630615,128,Hasto Bantah Keras PDIP Dalangi Sejumlah Aksi Demonstrasi ke Pemerintah
+2026-07-21,3,0.01879708096385002,128,"Kebakaran Hutan Terbesar di Spanyol Hanguskan 26.000 Hektar, 1.200 Warga Mengungsi"
+2026-07-21,4,0.01814531907439232,128,Hasto Kritik Pemerintah Tebang Pilih Kasus Raja Juli dan Febrie: Tak Boleh Diskriminasi
+2026-07-21,5,0.017753809690475464,128,"Ada Gerakan 'Partai Kecoak' di India, Ribuan Orang Demo Besar-besaran di DPR"
+2026-07-23,1,0.020350253209471703,128,"Efek Konflik Global, Rupiah Dibuka Melemah di Rp17.917 per Dolar AS"
+2026-07-23,2,0.019848357886075974,128,Polri Blak-blakan Penangkapan WN Palestina Tak Langgar Prosedur
+2026-07-23,3,0.018230265006422997,128,Yusril Bantah Deportasi WN Palestina ke Siprus Bermotif Politik
+2026-07-23,4,0.018017925322055817,128,PBNU Resmi Undang Presiden Prabowo Buka Gelaran Muktamar ke-35 NU di Jombang
+2026-07-23,5,0.015403819270431995,128,Gubernur URI Jelaskan Beda Fungsi Universitas Republik Indonesia dan Lemhannas
+2026-07-24,1,0.022992953658103943,128,"AHY: Prabowo Bahas Antisipasi Dampak Perang Timur Tengah, Ketahanan Energi hingga Pangan"
+2026-07-24,2,0.021303698420524597,128,"Hotman Paris Mundur dari Pengacara Eks Jampidsus Febrie, Alasan Sakit"
+2026-07-24,3,0.019342992454767227,128,"Kapolri Bertemu Direktur FBI, Bahas Terorisme hingga Kejahatan Siber"
+2026-07-24,4,0.018729181960225105,128,Ini 10 Poin Penting Pidato Prabowo di Harlah Ke-28 PKB
+2026-07-24,5,0.01731969229876995,128,Israel Sebar Buaya Nil untuk Jaga Penjara Tahanan Palestina
+2026-07-27,1,0.016164490953087807,128,"Hari Anak Nasional, Kisah Veronika Reni Bersama PNM Mekaar"
+2026-07-27,2,0.015460076741874218,128,Ini 4 Ruas Jalan Tol yang Bisa fungsional Jadi Landasan Darurat Pesawat Tempur
+2026-07-27,3,0.014564014971256256,128,"IHSG Ditutup Turun 1,88% ke 6.196, Terimpit Tarif Dagang Terbaru AS"
+2026-07-27,4,0.014440968632698059,128,Rupiah Ditutup Melemah ke Rp17.963 per Dolar AS Akhir Pekan
+2026-07-27,5,0.013128181919455528,128,Rekomendasi Saham dan Pergerakan IHSG Hari Ini Senin 27 Juli 2026
+2026-07-28,1,0.044448934495449066,62,Lebih dari Sekadar Smelter: Cerita di Balik Kolaborasi Tiga Negara
+2026-07-28,2,0.03620685264468193,62,Rupiah Dibuka Melemah ke Rp17.973 Usai Perry Warjiyo Mundur dari Gubernur BI
+2026-07-28,3,0.031359970569610596,62,Destry: Prabowo Minta KSSK Perkuat Koordinasi Dukung Agenda Pemerintah
+2026-07-28,4,0.02916962467133999,62,"Rupiah Dibuka Melemah Dekati Rp18.000, Pasar Soroti Mundurnya Gubernur BI"
+2026-07-28,5,0.027179112657904625,62,Istana Ungkap Alasan Perry Warjiyo Mundur dari Jabatan Gubernur BI
+2026-07-29,1,0.01753409579396248,120,"IHSG Ditutup Turun ke 6.130 Jelang FOMC, Saham DSSA-BREN Melemah"
+2026-07-29,2,0.01667139306664467,120,"Penampakan Apartemen LRT City yang Mangkrak: Nihil Konstruksi, Konsumen Gigit Jari"
+2026-07-29,3,0.01575089432299137,120,"IHSG Dibuka Rebound 0,03% ke Level 6.187, Saham INKP, DEWA, BUMI Bergeliat"
+2026-07-29,4,0.014678466133773327,120,Prudential Syariah Dorong Layanan Proteksi Anak Sejak Dini
+2026-07-29,5,0.014654773287475109,120,"Dibayangi Isu Independensi BI, Rupiah Dibuka Melemah Sentuh Rp18.068 per Dolar AS"
+2026-07-30,1,0.023745080456137657,95,"IHSG Ditutup Melemah 0,64% ke 6.091, Saham BUMI, MBMA hingga AMRT Lesu"
+2026-07-30,2,0.02304403856396675,95,OJK Cabut Izin Pembentukan Unit Syariah Great Eastern Life Indonesia
+2026-07-30,3,0.020544439554214478,95,"IHSG Dibuka Menguat 0,49% ke 6.160, Saham CUAN, BRPT & DEWA Kompak Melaju"
+2026-07-30,4,0.01707504130899906,95,Rekomendasi Saham dan Pergerakan IHSG Hari Ini Kamis 30 Juli 2026
+2026-07-30,5,0.016588199883699417,95,Gempa Jepang Ganggu Operasional Pabrik Semikonduktor hingga Otomotif
+2026-07-31,1,0.028798798099160194,115,"AS-Iran Memanas, Seret Rupiah Melemah ke Rp18.111 per Dolar AS"
+2026-07-31,2,0.018009215593338013,115,"IHSG Meluncur di Zona Hijau Naik 0,56% ke level 6.125 Usai The Fed Tahan Suku Bunga"
+2026-07-31,3,0.017422063276171684,115,Prabowo: Revitalisasi Stasiun Tawang Jaga Identitas Bangsa dan Memori Sejarah Indonesia
+2026-07-31,4,0.016766197979450226,115,"IHSG Ditutup Naik 1,56% ke 6.186: Saham TLKM, BBCA & BBRI Tancap Gas"
+2026-07-31,5,0.016584834083914757,115,"Prabowo Desak Percepatan Realisasi Program Gentengisasi, Ini Alasannya"
+2026-08-03,1,0.025532757863402367,128,"Iran dan AS Saling Ancam, Ekonomi Global Bakal Tanggung Akibatnya"
+2026-08-03,2,0.01801297627389431,128,"KRL Jabodetabek Layani 1,05 Juta Orang/Hari, Kepadatan Terjadi di Pagi dan Sore"
+2026-08-03,3,0.017563777044415474,128,"Daftar Negara dengan Utang Pemerintah Terbesar di Dunia 2026, Indonesia Peringkat Berapa?"
+2026-08-03,4,0.0162714384496212,128,"IHSG Uji Level 6.380 Pekan Ini, Pasar Sambut Rilis Data Inflasi hingga PDB Q2/2026"
+2026-08-03,5,0.014750850386917591,128,Update Kebakaran KMP Mutiara Sentosa II: 5 Orang Meninggal Dunia
+2026-08-04,1,0.017851587384939194,128,"Rupiah Dibuka Menguat Sentuh Rp17.975 per Dolar AS, Pasar Menanti Data Inflasi"
+2026-08-04,2,0.016155820339918137,128,"Adu Kuat PMI Manufaktur Asean: Thailand Melesat, RI Keluar dari Zona Kontraksi"
+2026-08-04,3,0.014604208990931511,128,"IHSG Dibidik ke Level 6.300, Sentimen Global dan Domestik Makin Kondusif"
+2026-08-04,4,0.014069770462810993,128,Arus Kepulangan Jemaah Haji Dongkrak Perjalanan Wisatawan Nasional Juni 2026
+2026-08-04,5,0.01386919803917408,128,Bank Dunia Sarankan Indonesia Hapus Tax Holiday
+2026-08-05,1,0.023234672844409943,128,"Saat Jepang dan AS Bersatu Menahan Yen, Apa Imbasnya bagi RI?"
+2026-08-05,2,0.01708131656050682,128,PM Anutin Ajak Prabowo Barter Daging-Susu Thailand dengan Pupuk RI
+2026-08-05,3,0.016835641115903854,128,"Koalisi Buruh Tunda Demo soal RUU Ketenagakerjaan di DPR, Ini Alasannya"
+2026-08-05,4,0.01438842248171568,128,"Rekomendasi Saham dan Pergerakan IHSG Hari Ini, Rabu 5 Agustus 2026"
+2026-08-05,5,0.013993916101753712,128,Bocoran PM Thailand: Sektor Swasta Negeri Gajah Putih Bidik Investasi di Migas hingga Energi Baru di RI
+2026-08-06,1,0.020642373710870743,128,"Rupiah Dibuka Menguat ke Rp17.913, Sinyal Pembukaan Selat Hormuz Jadi Katalis"
+2026-08-06,2,0.014789451844990253,128,"IHSG Dibuka Naik ke 6.369, Saham HRTA, ANTM & INDY Melaju"
+2026-08-06,3,0.014690886251628399,128,"Geger Temuan Beras Fortifikasi Abal-Abal, Mendag Lakukan Hal Ini"
+2026-08-06,4,0.014634343795478344,128,"IHSG Ditutup Menguat 0,50% ke 6.351, Saham Big Caps DCII & BREN Cs Memanas"
+2026-08-06,5,0.014121418818831444,128,Rupiah Ditutup Menguat Rp17.933 per Dolar AS Pasca Rilis Data PDB Kuartal II/2026
+2026-08-07,1,0.028847401961684227,85,"IHSG Dibuka Menguat ke 6.354, Saham AADI, MEDC & TLKM Melaju"
+2026-08-07,2,0.024061977863311768,85,"Rupiah Ditutup Menguat Rp17.923 per Dolar AS, Pasar Nantikan Data Cadev Amerika"
+2026-08-07,3,0.02146255597472191,85,Hasil Survei BPS: Indeks Kepuasan Haji 2026 Tembus Rekor Tertinggi Sejak 2019
+2026-08-07,4,0.02089967392385006,85,"Operasi SAR Ditutup, Keluarga dan Rekan Korban Hilang KM Mutiara Sentosa II Masih Tuntut Kepastian"
+2026-08-07,5,0.02067199908196926,85,"Puluhan Tahun Menanti, Jalan di Nias Akhirnya Diaspal Gubernur Bobby"
+2026-08-10,1,0.025526955723762512,128,Israel Tolak 15 Poin Rencana Perdamaian Trump untuk Gaza
+2026-08-10,2,0.017074942588806152,128,"Korban Penembakan di Sekolah Tailan Bertambah Jadi 9 Orang, 7 Kritis"
+2026-08-10,3,0.016716578975319862,128,"BRIEF INSIGHT: IHSG Tembus 6.400, Asing Mulai Borong Lagi di Tengah Arus Keluar dan Reformasi Pasar Modal"
+2026-08-10,4,0.016667092218995094,128,Garuda Indonesia Blak-blakan Soal Konsolidasi GIAA dan Pelita Air
+2026-08-10,5,0.014403657987713814,128,PM Tailan Sebut Tekanan Akademik Jadi Pemicu Aksi Penembakan di Sekolah
+2026-08-11,1,0.030787888914346695,118,Trump Mau Akhiri Perang dengan Iran Meski Tanpa Kesepakatan Nuklir
+2026-08-11,2,0.020412644371390343,118,"PM Malaysia Anwar Ibrahim Jalani Tindakan Medis di Hari Ulang Tahun Ke-79, Ada Apa?"
+2026-08-11,3,0.019951792433857918,118,Sultan Brunei Hassanal Bolkiah Cabut Gelar Kerajaan dari Menantunya
+2026-08-11,4,0.017587581649422646,118,"Gerak Cepat Pemerintah Atasi Karhutla di Kalbar, Kalteng hingga Bromo"
+2026-08-11,5,0.01549146044999361,118,Pemerintah Apresiasi Antusiasme Masyarakat Semarakkan HUT ke-81 RI
+2026-08-12,1,0.026392465457320213,128,"Tak Setujui Syarat Damai, Trump Minta Ganti Rugi ke Iran atas Dampak Perang"
+2026-08-12,2,0.019162548705935478,128,"4 Ancaman Terbaru Donald Trump kepada Iran, OTW Perang Dunia III?"
+2026-08-12,3,0.018413320183753967,128,Indonesia Bidik Kerja Sama Konkret dengan Jepang pada IJBNet ke-8
+2026-08-12,4,0.018052756786346436,128,Yaqut Bantah Terima Cuan dari Kasus Haji: Saya Tak Terima Sepeser Pun
+2026-08-12,5,0.01770591363310814,128,Iran Ngotot Tolak Buka Selat Hormuz Harga Minyak Mendidih
+2026-08-13,1,0.02412918582558632,128,Iran Menolak untuk Menghentikan Perang Hingga Tuntutan-Tuntutan Terpenuhi
+2026-08-13,2,0.020450491458177567,128,"Menhut Raja Juli Minta Masyarakat Jangan Bermain Api, Ada El Nino Godzilla"
+2026-08-13,3,0.01761002652347088,128,"Pemerintah Siapkan Tanda Kehormatan HUT Ke-81 RI, Menteri Masuk Daftar"
+2026-08-13,4,0.016785357147455215,128,"Deretan Gempa Terbesar di Dunia 2026, Salah Satunya di Indonesia"
+2026-08-13,5,0.015345579013228416,128,Trump Digugat karena Jual Akses Cepat Cuitan di Medsos hingga US$100.000
+2026-08-14,1,0.020332522690296173,114,Gerak Cepat Pemerintah Atasi Api Bromo dan Ancaman Karhutla
+2026-08-14,2,0.019963432103395462,114,Mendes PDT Yandri Laporkan Kasus Hoaks AI terkait KDMP ke Bareskrim
+2026-08-14,3,0.019651781767606735,114,"Bentrokan di Kapal Induk USS Abraham Lincoln, 7 Tentara AS Meninggal Dunia"
+2026-08-14,4,0.018156778067350388,114,"Kapal Induk USS Abraham Lincoln, Perang Berkepanjangan, Pemicu Stres dan Bentrokan"
+2026-08-14,5,0.01808464713394642,114,"Profil Reza Aulia Hakim, Direktur Garuda (GIAA) yang Diberhentikan Sementara"
+2026-08-18,1,0.017131932079792023,128,"Jokowi, Maruf Amin, hingga Dewi Soekarno Hadiri Upacara HUT ke-81 RI di Istana"
+2026-08-18,2,0.01456074696034193,128,"BNPB: 54 Korban Meninggal Akibat Gempa M7,7 di NTT"
+2026-08-18,3,0.014546552672982216,128,"Menko Polkam Ingatkan Bendera Simbol Negara, Jaga Perdamaian Aceh dan Papua"
+2026-08-18,4,0.014471312053501606,128,Momen Prabowo Duduk Diapit Jokowi dan Gibran saat Upacara di Istana
+2026-08-18,5,0.01443934440612793,128,"Harga Emas Dunia Diprediksi Menguat, Cek Target Logam Mulia Pekan Depan"
+2026-08-19,1,0.044462017714977264,46,"IHSG Ditutup Naik ke 6.482, Saham BYAN hingga JARR Milik Haji Isam Melesat"
+2026-08-19,2,0.0423286110162735,46,"Rupiah Ditutup Melemah ke Rp17.862, Investor Wait and See Jelang RDG BI"
+2026-08-19,3,0.04121023789048195,46,"IHSG Dibuka Menguat, Saham BYAN, ISAT, dan ANTM Melesat Pagi Ini"
+2026-08-19,4,0.03903065249323845,46,Rupiah Dibuka Melemah ke Rp17.850 per Dolar AS Dipicu Kenaikan Harga Minyak
+2026-08-19,5,0.03427990898489952,46,"Rekomendasi Saham dan Pergerakan IHSG Hari Ini, Selasa 18 Agustus 2026"
+2026-08-20,1,0.025985876098275185,77,Pupuk Indonesia dan Relawan Bakti BUMN Bantu Korban Bencana NTT
+2026-08-20,2,0.02489612065255642,77,"IHSG Ditutup Melemah Usai BI Rate Ditahan, Saham BYAN hingga BREN Terjungkal"
+2026-08-20,3,0.024029262363910675,77,"IHSG Dibuka Menguat ke 6.447, Saham AMMN, ANTM, hingga EMAS Naik ke Zona Hijau"
+2026-08-20,4,0.023878373205661774,77,"Rupiah Diprediksi Melemah Lagi, Ini Penyebabnya"
+2026-08-20,5,0.023651650175452232,77,"BI Tegaskan KKI Tak Gantikan Visa dan Mastercard, Ini Penjelasannya"
+2026-08-21,1,0.04424910619854927,48,"IHSG Ditutup Menanjak ke 6.501, Saham Tambang AMMN, BUMI, BRMS Melesat"
+2026-08-21,2,0.041067302227020264,48,"IHSG Tembus 6.500, Saham Tambang dan Bank Laris Diborong Asing"
+2026-08-21,3,0.03714959695935249,48,Rupiah Hari Ini (20/8) Ditutup Menguat ke Rp17.747 per Dolar AS
+2026-08-21,4,0.036008432507514954,48,"Rekomendasi Saham dan Pergerakan IHSG Hari Ini, Jumat 21 Agustus 2026"
+2026-08-21,5,0.03097577951848507,48,Hasil Investasi Zurich Syariah Tumbuh 18% pada Semester I-2026
+2026-08-24,1,0.01894299127161503,117,"Pefindo Rombak Direksi, Ignatius Girendroheru Ditunjuk Jadi Dirut"
+2026-08-24,2,0.01796581968665123,117,"IHSG Ditutup Menguat ke 6.525, Saham Bank Jumbo Kompak Bertenaga"
+2026-08-24,3,0.015660470351576805,117,"Proyeksi IHSG dan Rekomendasi Saham Awal Pekan Depan, dari FORE, TLKM, hingga INCO"
+2026-08-24,4,0.014893117360770702,117,"Rupiah Hari Ini Ditutup Naik Rp17.694 per Dolar AS, Cek Sentimen Penguat"
+2026-08-24,5,0.013828081078827381,117,"Destry Damayanti Jadi Calon Tunggal Gubernur BI, Begini Harapan Citi Indonesia"
+2026-08-26,1,0.030252564698457718,62,Rupiah Hari ini (24/8) Ditutup Melemah ke Rp17.721 per Dolar AS
+2026-08-26,2,0.028116416186094284,62,"MSCI Diprediksi Freeze Saham RI Lagi, IHSG Berpeluang ke 7.500"
+2026-08-26,3,0.02645653486251831,62,"IHSG Dibuka Menguat ke 6.528, Saham TPIA, DSSA dan AMMN Kompak Hijau"
+2026-08-26,4,0.026168912649154663,62,"IHSG Berisiko Melemah Rabu (26/8), Cermati Saham ANTM, PGAS, PTBA, TINS"
+2026-08-26,5,0.02588013932108879,62,"Rekomendasi Saham dan Pergerakan IHSG Hari Ini, Rabu 26 Agustus 2026"
+2026-08-27,1,0.03217127546668053,72,"IHSG Dibuka Level 6.507, Ada 395 Saham Melemah Pagi Ini"
+2026-08-27,2,0.031606659293174744,72,"Rupiah Ditutup Melemah ke Rp17.725 per Dolar AS, Investor Waspada Demo 27 Agustus"
+2026-08-27,3,0.03120936080813408,72,"IHSG Dibuka Melemah 0,3% ke Level 6.424 Jelang Demo DPR Hari Ini"
+2026-08-27,4,0.030336761847138405,72,"VISI Akuisisi Hasna Medika, Intip Peran Raffi Ahmad hingga Pieter Tanuri"
+2026-08-27,5,0.028475746512413025,72,"Rupiah Dibuka Loyo Rp17.775 per Dolar AS, Pasar Cermati Aksi Demo Hari Ini"
+2026-08-28,1,0.059715915471315384,26,"J Trust Bank Bangun Gedung 24 Lantai di Tanah Abang, Bidik Pertumbuhan Bisnis"
+2026-08-28,2,0.050404537469148636,26,"Transaksi Valas CIMB Niaga Tumbuh di Atas 20%, Didorong Nasabah Retail"
+2026-08-28,3,0.05008287355303764,26,"Transaksi Marketplace Tetap Tumbuh, Dompet Digital Jadi Andalan Pembayaran"
+2026-08-28,4,0.04495697095990181,26,Jasindo Sebut Program PLTS 100 GWp Bisa Menjadi Peluang Pertumbuhan bagi Asuransi
+2026-08-28,5,0.044842012226581573,26,"PPATK: Transaksi Kejahatan Perbankan & Pasar Modal Rp 1,21 Triliun di Semester I-2026"
+2026-08-31,1,0.03390876203775406,46,AAUI Ungkap Tantangan di Industri Asuransi Saat Garap Proyek PLTS 100 GWp
+2026-08-31,2,0.03233975172042847,46,"KPR Syariah Bank Muamalat Melonjak Empat Kali Lipat, Tembus Rp 423 Miliar"
+2026-08-31,3,0.03081216849386692,46,"Dompet Digital Makin Diminati untuk Belanja Online, Ini Pemicunya"
+2026-08-31,4,0.028608322143554688,46,"Bank INA Buka KCP Muara Karang, Bidik Pertumbuhan Bisnis di Jakarta Utara"
+2026-08-31,5,0.028458138927817345,46,IFG Perkuat Ekosistem Perlindungan Hunian di Danantara Housing Expo 2026
+2026-09-01,1,0.07583398371934891,18,"Kritis Hadapi Informasi, Benteng Pertama agar Merdeka dari Penipuan Finansial"
+2026-09-01,2,0.0706612840294838,18,Sinar Mas Multiartha (SMMA) Jadi Pemegang Saham Minoritas Generali Syariah
+2026-09-01,3,0.06811320781707764,18,"AAJI Catat Premi Industri Asuransi Jiwa Tumbuh 8,2% di Semester I-2026"
+2026-09-01,4,0.06751812994480133,18,Ajaib Akan Gunakan Pendanaan US$ 270 Juta untuk Pengembangan Produk & SDM
+2026-09-01,5,0.06294747442007065,18,"AAJI:Premi Asuransi Jiwa Syariah Turun 20,2% pada Semester I-2026,Spin-Off Diandalkan"

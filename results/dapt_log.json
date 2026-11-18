@@ -1,0 +1,13 @@
+{
+ "base": "indobenchmark/indobert-base-p1",
+ "train_headlines": 172394,
+ "fit_end": "2025-02-24",
+ "epochs": 1,
+ "batch_size": 64,
+ "lr": 5e-05,
+ "head_warmup_steps": 600,
+ "dapt_steps": 2694,
+ "val_perplexity_random_head": 61935.67983488086,
+ "val_perplexity_general_indobert": 66.39957958014556,
+ "val_perplexity_dapt": 16.95296818909999
+}
