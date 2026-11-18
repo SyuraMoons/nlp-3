@@ -1,0 +1,34 @@
+{
+ "features": [
+  "market",
+  "news_volume",
+  "table:e5_anchors",
+  "table:e5_dynamics",
+  "table:entity_channels",
+  "table:sentiment"
+ ],
+ "model": "logreg",
+ "params": {
+  "C": 0.1071068869912769
+ },
+ "study": {
+  "n_trials": 60,
+  "best_oof_auc": 0.5566266140602583,
+  "starting_sets": [
+   "C_sentiment",
+   "C_anchors"
+  ],
+  "baseline_oof_auc": {
+   "C_sentiment": 0.5489822453371593,
+   "C_anchors": 0.5488589490674319
+  },
+  "best_trial_params": {
+   "base": "C_anchors",
+   "add_entities": true,
+   "add_topics": false,
+   "add_sentiment": true,
+   "model": "logreg",
+   "C": 0.1071068869912769
+  }
+ }
+}
