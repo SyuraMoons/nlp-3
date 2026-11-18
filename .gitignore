@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+data/lexicon/
+NLP Project - Task 2 (1).pdf
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Task 3
+cache/
+*.npy
+.claude/

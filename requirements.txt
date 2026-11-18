@@ -1,0 +1,29 @@
+# Python 3.12 recommended (torch / umap / hdbscan wheels). Setup:
+#   uv venv --python 3.12 .venv && source .venv/bin/activate && uv pip install -r requirements.txt
+
+# --- Task 2 core ---
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+jupyter
+tabulate
+pyarrow
+
+# --- Task 3: models + tuning ---
+lightgbm
+optuna
+
+# --- Task 3: text encoders (MPS on Apple Silicon) ---
+torch
+transformers
+sentence-transformers
+gensim
+
+# --- Task 3: topics + analysis ---
+bertopic
+umap-learn
+hdbscan
+shap
+seaborn
