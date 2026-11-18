@@ -1,0 +1,61 @@
+entity,type,count,in_gazetteer,channel
+jokowi,PER,155,False,
+prabowo,PER,111,False,
+indonesia,GPE,79,False,
+pemerintah,NOR,56,False,
+ukraina,GPE,52,True,geo
+ri,GPE,51,False,
+kpk,NOR,50,False,
+as,GPE,48,True,usd
+rusia,GPE,46,True,geo
+sri mulyani,PER,44,True,idr
+ojk,ORG,44,True,idr
+gibran,PER,42,False,
+anies,PER,35,False,
+china,GPE,35,True,china
+dpr,NOR,31,False,
+pdip,NOR,28,False,
+##sg,ORG,24,False,
+israel,GPE,24,True,geo
+jakarta,GPE,22,False,
+ganjar,PER,20,False,
+pertamina,ORG,19,False,
+ihsg,ORG,19,False,
+##s,ORG,19,False,
+erick thohir,PER,19,False,
+##n,ORG,19,False,
+mk,NOR,18,False,
+airlangga,PER,18,False,
+ri,NOR,17,False,
+bri,ORG,17,False,
+cak imin,PER,17,False,
+putin,PER,17,True,geo
+polisi,NOR,16,False,
+singapura,GPE,16,False,
+ganja,PER,16,False,
+wapres,NOR,16,False,
+megawati,PER,15,False,
+gaza,GPE,15,True,geo
+bei,ORG,15,False,
+mahfud md,PER,15,False,
+bi,ORG,15,True,idr
+bisnis. com,ORG,14,False,
+mahfud,PER,13,False,
+sima,PER,13,False,
+goto,ORG,13,False,
+kpu,NOR,13,False,
+the fed,ORG,13,True,usd
+ikn,ORG,12,False,
+bali,GPE,11,False,
+##i,ORG,11,False,
+jepang,GPE,11,False,
+golkar,NOR,11,False,
+kemenkeu,NOR,11,True,idr
+bank mandiri,ORG,11,False,
+bca,ORG,11,False,
+kemenhub,NOR,11,False,
+menteri,NOR,10,False,
+polri,NOR,10,False,
+luhut,PER,10,False,
+men,NOR,10,False,
+bsi,ORG,10,False,
