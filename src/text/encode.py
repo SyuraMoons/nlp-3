@@ -1,6 +1,6 @@
 """Encode every headline once and cache the vectors (src/text/cache.py contract).
 
-OWNER: Yusuf (see TEAM_TASKS.md). The two generic paths below already work:
+Two generic paths:
   * "sentence-transformers" models (contrastively trained sentence encoders)
   * "hf-mean" models: any HuggingFace encoder, mean-pooled over non-pad tokens
 Titles are deduplicated before encoding (wire stories repeat), then expanded back
@@ -11,7 +11,7 @@ Run (from repo root; uses Apple MPS if available, else CUDA, else CPU):
     python -m src.text.encode --encoder indobert
     python -m src.text.encode --encoder e5 --limit 2000     # quick smoke test
 
-Encoders marked TODO need their own script first (see each entry).
+indobert_dapt needs `python -m src.text.dapt` first.
 """
 import argparse
 import time
@@ -32,11 +32,11 @@ ENCODERS = {
     # Domain-adapted IndoBERT: continued MLM on TRAIN-split headlines.
     # TODO (Yusuf): write src/text/dapt.py that saves the model to this path.
     "indobert_dapt": {"kind": "hf-mean", "model": "cache/models/indobert_dapt"},
-    # TODO (Yusuf): static baselines (gensim FastText / Word2Vec trained on TRAIN-split
-    # headlines, SIF pooling) -> src/text/static.py, saving with save_embeddings().
-    # TODO (Yusuf): sentiment head mdhugol/indonesia-bert-sentiment-classification ->
-    # per-headline [P(pos), P(neu), P(neg)] -> src/text/sentiment.py.
 }
+# Other headline representations have their own scripts (same cache contract):
+#   src/text/static.py     FastText / Word2Vec trained on train-split headlines, SIF pooling
+#   src/text/sentiment.py  Indonesian BERT sentiment classifier -> [P(pos), P(neu), P(neg)]
+#   src/text/dapt.py       domain-adaptive MLM pretraining that produces indobert_dapt
 
 
 def device():
@@ -60,16 +60,20 @@ def encode_hf_mean(cfg, titles, batch_size):
     dev = device()
     tok = AutoTokenizer.from_pretrained(cfg["model"])
     model = AutoModel.from_pretrained(cfg["model"]).to(dev).eval()
-    out = []
+    # Sort by length so each batch pads to a similar length (much faster), then
+    # restore the original order at the end.
+    order = np.argsort([len(t) for t in titles])
+    out = np.zeros((len(titles), model.config.hidden_size), dtype=np.float32)
     for i in range(0, len(titles), batch_size):
-        batch = tok(titles[i:i + batch_size], padding=True, truncation=True, max_length=64,
+        idx = order[i:i + batch_size]
+        batch = tok([titles[j] for j in idx], padding=True, truncation=True, max_length=64,
                     return_tensors="pt").to(dev)
         hidden = model(**batch).last_hidden_state                  # (b, seq, dim)
         mask = batch["attention_mask"].unsqueeze(-1).to(hidden.dtype)
-        out.append(((hidden * mask).sum(1) / mask.sum(1).clamp(min=1)).float().cpu().numpy())
+        out[idx] = ((hidden * mask).sum(1) / mask.sum(1).clamp(min=1)).float().cpu().numpy()
         if (i // batch_size) % 100 == 0:
-            print(f"  {i:>7d}/{len(titles)}")
-    return np.vstack(out)
+            print(f"  {i:>7d}/{len(titles)}", flush=True)
+    return out
 
 
 def main(name, batch_size, limit):

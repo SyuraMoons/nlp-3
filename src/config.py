@@ -27,6 +27,12 @@ CACHE_DIR = ROOT / "cache"
 
 SEED = 42
 
+# Text models that are expensive to refit per CV fold (FastText/Word2Vec, DAPT,
+# BERTopic, SIF principal component) are fitted ONCE on headlines aligned to
+# trading dates up to the end of the Task 2 TRAIN split. They never see labels,
+# and they never see validation-period (2025-02-25+) or test-period text.
+TEXT_FIT_END = "2025-02-24"
+
 # ---------------------------------------------------------------------------
 # Task formulation (unchanged from Task 2)
 # ---------------------------------------------------------------------------
